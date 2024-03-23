@@ -22,8 +22,9 @@ const timeoutPromise = async (time, promise) => {
  * check if url avaliable
  */
 const checkUrlAvaliable = async (url) => {
+    const time = 3000;
     try {
-        await timeoutPromise(1500, () => axios.get(url, { timeout: 1500 }));
+        await timeoutPromise(time, () => axios.get(url, { timeout: time }));
         return true;
     } catch (err) {
         return false;
@@ -56,6 +57,7 @@ const generateM3uFile = async (fileName) => {
                 pureM3uContentList.push(m3uContentList[i + 1]);
             }
             i++;
+            bar.tick();
         }
         bar.tick();
     }
@@ -71,9 +73,9 @@ const main = async () => {
 
     for(let i = 0; i < files.length; i++) {
         await generateM3uFile(files[i]);
-        console.log('generateM3uFile success %s', files[i]);
+        console.log('==== %s / %s ====', i, files.length);
     }
-    
+
     console.log('=== mession complete ===');
 }
 

@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal9.ni",Canal 9 (480p) [Not 24/7]
+http://138.117.4.70:8075/Canal09_CooTel/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PervyyKosmicheskiy.ru",Первый космический
+http://stream01.vnet.am/Evrika/mono.m3u8
+#EXTINF:-1 tvg-id="PeretzInternational.ru",Перец
+http://stream01.vnet.am/Perec/mono.m3u8

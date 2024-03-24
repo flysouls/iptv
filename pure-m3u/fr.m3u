@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="C8.fr",C8
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/C8.m3u8
+#EXTINF:-1 tvg-id="CNews.fr",CNews
+https://raw.githubusercontent.com/Sphinxroot/HSL/main/DM/fr/CNEWS.m3u8
+#EXTINF:-1 tvg-id="EreTV.fr",Ère TV (1080p)
+https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8

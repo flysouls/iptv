@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DongNaiTV1.vn",Đồng Nai 1 (360p) [Not 24/7]
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuangNgaiTV.vn",Quang Ngai TV (720p)
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QuocHoiTV.vn",Quốc Hội (1080p)
+http://113.164.225.140:1935/live/quochoitvlive.stream/playlist.m3u8

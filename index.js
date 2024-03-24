@@ -3,6 +3,8 @@ import path from 'node:path';
 import axios from 'axios';
 import progress from 'progress';
 
+import promiseQueue from './queue.js';
+
 const timeoutPromise = async (time, promise) => {
     return new Promise(async (res, rej) => {
         let timer = setTimeout(() => {
@@ -62,21 +64,27 @@ const generateM3uFile = async (fileName) => {
         bar.tick();
     }
     if (pureM3uContentList.length > 1) {
+        console.log('write file');
         await fs.writeFile(path.resolve('./pure-m3u/', fileName), pureM3uContentList.join('\n'));
     }
+
+    console.log('generate complate', fileName);
     bar.terminate();
 }
 
 const main = async () => {
-    console.log('=== mession start ===');
+    console.log('=== generate mession start ===');
     const files = await getAllM3uFiles();
 
     for(let i = 0; i < files.length; i++) {
-        await generateM3uFile(files[i]);
-        console.log('==== %s / %s ====', i, files.length);
+        promiseQueue.enqueue(() => generateM3uFile(files[i]));
+        promiseQueue.runItem();
     }
 
-    console.log('=== mession complete ===');
+    promiseQueue.done(() => {
+        console.log('=== generate mession complete ===');
+    })
+
 }
 
 main();

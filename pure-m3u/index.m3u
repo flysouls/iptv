@@ -47,18 +47,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/inde
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16.cn",CCTV-16 (1080p)
 http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
-#EXTINF:-1 tvg-id="",万州三峡移民 (576p) [Not 24/7]
-http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",万州影视 (576p) [Not 24/7]
-http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",万州科教 (576p)
-http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",万州综合 (576p) [Not 24/7]
-http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",中国气象 (576p) [Not 24/7]
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-id="",云南 Ⅰ 红河综合台 (1080p)
-https://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="",亳州农村 (360p)
 http://220.180.110.101:8083/videos/live/39/13/o4ncrHkSp7q09/o4ncrHkSp7q09.m3u8
 #EXTINF:-1 tvg-id="",亳州新聞頻道 (360p)
@@ -67,34 +55,8 @@ http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
 http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="",北碚综合 (576p) [Not 24/7]
 http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 tvg-id="",孟州电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 tvg-id="",家庭影院 (1080p)
 http://39.134.19.153/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-id="",岳阳公共 (576p)
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8
-#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn",延边卫视 (720p)
-http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-#EXTINF:-1 tvg-id="",建安电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
-#EXTINF:-1 tvg-id="FangshanTV.cn",房山电视台 (576p)
-https://live.funhillrm.com/2/playlist.m3u8
-#EXTINF:-1 tvg-id="",新郑综合 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10184-1.m3u8
-#EXTINF:-1 tvg-id="",晋中公共 (1080p) [Not 24/7]
-http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 tvg-id="",晋中综合 (1080p)
-http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 tvg-id="",武汉外语 (576p)
-http://stream.appwuhan.com/6tzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="",武汉文体 (480p)
-http://stream.appwuhan.com/5tzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="",武汉经济 (360p)
-http://stream.appwuhan.com/4tzb/sd/live.m3u8
-#EXTINF:-1 tvg-id="",武进新闻 (576p) [Not 24/7]
-https://live.wjyanghu.com/live/CH1.m3u8
-#EXTINF:-1 tvg-id="",武进生活 (576p) [Not 24/7]
-https://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 tvg-id="",江津文化旅游 (576p)
 http://222.179.155.21:1935/ch2.m3u8
 #EXTINF:-1 tvg-id="",江津新闻综合 (480p)
@@ -103,30 +65,12 @@ http://222.179.155.21:1935/ch1.m3u8
 http://222.179.155.21:1935/ch0.m3u8
 #EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn",江苏卫视 (1080p)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
-#EXTINF:-1 tvg-id="",沧县电视二套 (576p)
-http://hebcx.chinashadt.com:2036/live/10002.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="",沧县电视综合 (576p)
-http://hebcx.chinashadt.com:2036/live/10001.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="",河源公共 (540p)
-https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-id="",河源综合 (540p)
-https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-id="",洪雅新闻综合 (1080p)
 http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.m3u8
-#EXTINF:-1 tvg-id="",浙江 Ⅰ 绍兴影视 (720p)
-http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-#EXTINF:-1 tvg-id="",浙江 Ⅰ 绍兴综合 (576p)
-http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 #EXTINF:-1 tvg-id="",涡阳新闻综合 (360p)
 http://220.180.110.101:8083/videos/live/36/57/hwEHU4UVQ1Iv5/hwEHU4UVQ1Iv5.m3u8
 #EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn",深圳卫视 (1080p)
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
-#EXTINF:-1 tvg-id="",湘潭公共 (576p)
-http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="",湘潭新闻综合 (720p)
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 tvg-id="ChuzhouPublicChannel.cn",滁州市广播电视台 公共频道 (400p)
-http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-id="ChuzhouNewsChannel.cn",滁州市广播电视台 新闻综合频道 (1080p)
 http://live.cztv.cc:85/live/xwpd.m3u8
 #EXTINF:-1 tvg-id="ChuzhouScienceEducationChannel.cn",滁州市广播电视台 科教频道 (400p)
@@ -159,10 +103,16 @@ http://123.146.162.24:8017/iTXwrGs/800/live.m3u8
 http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 #EXTINF:-1 tvg-id="",罗山电视台 (1080p) [Not 24/7]
 http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 tvg-id="",耀才财经
+http://202.69.67.66/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="",荣昌综合 (404p) [Not 24/7]
 http://183.64.181.25:40023/rongchang01.m3u8
-#EXTINF:-1 tvg-id="",西藏藏語 (576p)
-http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:-1 tvg-id="",萧山新闻综合 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+#EXTINF:-1 tvg-id="",蓬安新闻综合 (720p) [Not 24/7]
+http://palive.patv123.com:8091/live/xwpd_800K.m3u8
+#EXTINF:-1 tvg-id="",蕭山生活頻道 (720p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 tvg-id="",西青新闻综合 (1080p) [Not 24/7]
 http://221.238.209.44:81/hls/live1.m3u8
 #EXTINF:-1 tvg-id="TongzhouTV.cn",通州电视台 (720p)
@@ -191,16 +141,44 @@ http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8
 http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 #EXTINF:-1 tvg-id="",靖江新闻綜合 (480p) [Not 24/7]
 http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+#EXTINF:-1 tvg-id="",餘姚姚江文化 (576p) [Not 24/7]
+https://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 #EXTINF:-1 tvg-id="",高清电影 (1080p)
 http://39.134.19.76/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
+#EXTINF:-1 tvg-id="",龙岩综合 (540p)
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="",Foochow Children TV
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="",Foochow TV-1 News
+http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
+#EXTINF:-1 tvg-id="",Foochow TV-3 Life
+http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
+#EXTINF:-1 tvg-id="",Fusung News TV
+http://stream8.jlntv.cn/fs/sd/live.m3u8
 #EXTINF:-1 tvg-id="LasaTV.cn",Lasa TV
 http://220.182.45.198:20088/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn",Xizang TV Tibetan
 http://220.182.45.198:20088/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="BRTVKakuChildrensChannel.cn",BRTV Kaku Childrens Channel [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.2.216:5140
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn",Nei Monggol TV [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.7.93:5140
 #EXTINF:-1 tvg-id="XizangTVTibetan.cn",Xizang TV Tibetan [Not 24/7]
 http://office.gofaraway.top:888/udp/238.125.7.94:5140
+#EXTINF:-1 tvg-id="XinjiangTV12.cn",Xinjiang TV 12 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.3.185:5140
+#EXTINF:-1 tvg-id="XinjiangTV9.cn",Xinjiang TV 9 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.7.153:5140
+#EXTINF:-1 tvg-id="XinjiangTV8.cn",Xinjiang TV 8 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.3.181:5140
+#EXTINF:-1 tvg-id="XinjiangTV5.cn",Xinjiang TV 5 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.7.149:5140
+#EXTINF:-1 tvg-id="XinjiangTV3.cn",Xinjiang TV 3 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.7.147:5140
+#EXTINF:-1 tvg-id="XinjiangTV2.cn",Xinjiang TV 2 [Not 24/7]
+http://office.gofaraway.top:888/udp/238.125.3.175:5140
 #EXTINF:-1 tvg-id="SichuanKangbaTibetanTV.cn",Sichuan Kangba Tibetan TV
 http://220.182.45.198:20088/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="",浙江新闻
@@ -230,4 +208,8 @@ https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8
 #EXTINF:-1 tvg-id="",邯郸新闻
 https://jwliveqxzb.hebyun.com.cn/hdxwzh/hdxwzh.m3u8
 #EXTINF:-1 tvg-id="",邯郸公共
-https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
+#EXTINF:-1 tvg-id="",任丘文娱
+https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8

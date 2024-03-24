@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BaltaTV.ua",Балта ТВ (768p)
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua",Общественное Независимое Телевидение (576p)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua",Первый городской (Одесса) (1080p) [Not 24/7]
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua",Первый Городской (Одесса) (576p)
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8

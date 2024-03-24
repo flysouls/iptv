@@ -1,6 +1,6 @@
-const SIZE = 10;
+const SIZE = 50;
 
-export class PromiseQueue {
+class PromiseQueue {
     constructor() {}
     queue = [];
     size = 0;
@@ -18,17 +18,31 @@ export class PromiseQueue {
     }
 
     async runItem() {
-        if (this.size >= SIZE) {
+        if (this.isEmpty()) {
+            if (this.size === 0) {
+                this.cb && this.cb();
+            }
             return ;
         }
-        if (!this.isEmpty()) {
+        if (this.size <= SIZE) {
             this.size ++;
+            await this.dequeue()();
+            this.size --;
+            process.nextTick(() => {
+                this.runItem();
+            })
         }
     }
 
     async run() {
-        while(!this.isEmpty()) {
-            await this.dequeue()();
+        for (let i = 0; i < SIZE; i++) {
+            this.runItem();
         }
     }
+
+    done(cb) {
+        this.cb = cb;
+    }    
 }
+
+export default new PromiseQueue();

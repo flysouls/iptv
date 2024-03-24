@@ -5,6 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "node index.js",
+    "merge": "node merge.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

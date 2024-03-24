@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KaifaTV.jo",Kaifa TV (576p)
+http://82.212.74.2:8000/live/7311.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo",Radio Fann Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanStudio.jo",Radio Yaqeen Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanCityView.jo",Rotana Radio Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanControlStudio.jo",Rotana Radio Jordan: Control Studio (180p)
+http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8

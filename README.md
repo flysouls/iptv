@@ -1,10 +1,10 @@
 # iptv 资源整合（陕西移动）
 
 ## 码云镜像站(gitee)
-[iptv](https://gitee.com/flysouls/iptv.git)https://gitee.com/flysouls/iptv.git
+[iptv](https://gitee.com/flysouls/iptv.git)
 
 ## 资源来源
-[iptv](https://github.com/iptv-org/iptv.git)https://github.com/iptv-org/iptv.git
+[iptv](https://github.com/iptv-org/iptv.git)
 
 ## 目录介绍
 m3u 存放手动复制过来的 m3u 资源

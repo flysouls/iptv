@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AFVFamily.us",AFV Family
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.fr",Rakuten Family
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8

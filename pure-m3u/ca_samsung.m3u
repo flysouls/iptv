@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",DryBar Comedy
+https://drybar-drybarcomedy-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KidoodleTV.ca",Kidoodle TV
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MHZ.ca",MHZ
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us",Outside TV (720p)
+https://outside-tv-samsung-ca.samsung.wurl.tv/manifest/playlist.m3u8

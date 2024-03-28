@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ERT3.gr",ERT3
-http://88.99.254.101/ert3/mono.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr",ERT2
-http://88.99.254.101/ert2/mono.m3u8

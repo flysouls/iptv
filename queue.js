@@ -1,4 +1,4 @@
-const SIZE = 50;
+const SIZE = 200;
 
 class PromiseQueue {
     constructor() {}

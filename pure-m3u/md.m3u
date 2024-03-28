@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SorTV.md",Sor TV (720p)
-http://188.237.212.16:8888/live/cameraFeed.m3u8
-#EXTINF:-1 tvg-id="",ТНТ Exclusiv TV (576p)
-http://89.28.25.122/hls/tnt_md.m3u8

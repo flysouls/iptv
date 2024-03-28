@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="BajaiTV.hu",Bajai TV (720p)
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CsurgoTV.hu",Csurgó TV (720p)
-http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
-#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu",Soltvadkerti Televízió (720p)
-http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8

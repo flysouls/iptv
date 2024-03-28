@@ -5,6 +5,8 @@ import progress from 'progress';
 
 import promiseQueue from './queue.js';
 
+const allM3uPath = './m3u';
+
 const timeoutPromise = async (time, promise) => {
     return new Promise(async (res, rej) => {
         let timer = setTimeout(() => {
@@ -37,8 +39,16 @@ const checkUrlAvaliable = async (url) => {
  * get m3u files
  */
 const getAllM3uFiles = async () => {
-    const files = await fs.readdir('./m3u');
-    return files;
+    const files = await fs.readdir(path.resolve(allM3uPath));
+    const fileState = await Promise.all(
+        files.map(i => fs.stat(path.resolve(allM3uPath, i)))
+    );
+    const sortFiles = files.map((i, j) => ({
+        name: i,
+        stat: fileState[j],
+    })).sort((a, b) => b.stat.size - a.stat.size).map(i => i.name);
+
+    return sortFiles;
 }
 
 /**
@@ -73,7 +83,7 @@ const generateM3uFile = async (fileName) => {
 }
 
 const main = async () => {
-    console.log('=== generate mession start ===');
+    console.time('=== generate mession ===');
     const files = await getAllM3uFiles();
 
     for(let i = 0; i < files.length; i++) {
@@ -82,7 +92,7 @@ const main = async () => {
     }
 
     promiseQueue.done(() => {
-        console.log('=== generate mession complete ===');
+        console.timeEnd('=== generate mession ===');
     })
 
 }

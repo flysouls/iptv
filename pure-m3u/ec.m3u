@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="InfinitaTV.ec",Infinita TV (1080p)
-https://s2.tvdatta.com:3753/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="RadioFantastica989FM.ec",Radio Fantástica 98.9 FM (1080p)
-http://190.107.232.9:8082/livestream/stream.m3u8

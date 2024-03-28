@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1KG.kg",TV1 KG (1080p)
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="312TV.kg",312 ТВ (406p)
+http://176.126.166.43:1935/live/312musik/playlist.m3u8

@@ -1,19 +1,387 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MashriqTV.pk",Mashriq TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9SCoYKptExLJRyYS3hkLxg.m3u8
+#EXTINF:-1 tvg-id="MaurienneTV.fr",Maurienne TV (720p)
+https://ythls.armelin.one/channel/UCva-htH2wvmKsG6SkcEJ4Vw.m3u8
+#EXTINF:-1 tvg-id="MBCEvery1.kr",MBC Every1 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+#EXTINF:-1 tvg-id="MBS.mg",MBS TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCj8IDT_XOQBje1L5SmAn1Zw.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in",Media One (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#EXTINF:-1 tvg-id="MedyaHaber.tr",Medya Haber (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
+#EXTINF:-1 tvg-id="MegaTV.in",Mega TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCsJgeHqYFzBzQRa5ZmhJo7w.m3u8
+#EXTINF:-1 tvg-id="MESat.eg",MESat (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCg5uHOxrP5GkMWldOavPKGQ.m3u8
+#EXTINF:-1 tvg-id="MeteoTVTV.ro",Meteo TV.TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCme7pPv6AZoSMsFbSYK0esg.m3u8
+#EXTINF:-1 tvg-id="MethTV.lk",Meth TV
+https://ythls.armelin.one/channel/UC7kBHRaynsJMB6JcooGLTmA.m3u8
+#EXTINF:-1 tvg-id="Metro1News.pk",Metro1 News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC95lddVg_04jAevVGYknx_w.m3u8
+#EXTINF:-1 tvg-id="MetroTV.id",Metro TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCzl0OrB3-ehunyotIQvK77A.m3u8
+#EXTINF:-1 tvg-id="MinhajTV.pk",Minhaj TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCmwpLGkHfebwBaZbwcX3wWQ.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr",Minika Go (576p) [Not 24/7]
+https://ythls.armelin.one/channel/UCVbCXWXWd0WCNhdBnmP_TmA.m3u8
+#EXTINF:-1 tvg-id="",MIX (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyqo8U-nWSCHyxWnI8zbQyA.m3u8
+#EXTINF:-1 tvg-id="MOPTVKenya.ke",MOP TV Kenya (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC_TKzHKWqX7sAjx4UPZoAPA.m3u8
+#EXTINF:-1 tvg-id="MosaikCristal.fr",Mosaik Cristal
+https://ythls.armelin.one/channel/UCQC0xLG_W0QpqAXQ4-yhwBA.m3u8
+#EXTINF:-1 tvg-id="",MY (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRzAqsmluZYk-r59pQYSa3Q.m3u8
+#EXTINF:-1 tvg-id="Net2TV.gh",Net2 TV (360p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKpFgDhnwRvUauqsd5h98fw.m3u8
+#EXTINF:-1 tvg-id="Net25.ph",NET 25 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5IF8NlxMW1GkEUUqWJJBIw.m3u8
+#EXTINF:-1 tvg-id="NethraTV.in",Nethra TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6b6XrsNOxQiS-FdfE8-Avw.m3u8
+#EXTINF:-1 tvg-id="NevoMusicTj.uz",NevoMusicTj (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXvGJ608Y8TgJ8lKLv-2WOg.m3u8
+#EXTINF:-1 tvg-id="NewLifeTV.ke",New Life TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCk3buHLJP6KAcbtsw8fj4hg.m3u8
+#EXTINF:-1 tvg-id="News1India.in",News 1 India (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCA9JOzo-2-0xAdihJkRKSyg.m3u8
+#EXTINF:-1 tvg-id="News18AssamNorthEast.in",News18 Assam North-East (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCAjBd-r8JWfnRjfhg23nqLQ.m3u8
+#EXTINF:-1 tvg-id="News18India.in",News18 India (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCPP3etACgdUWvizcES1dJ8Q.m3u8
+#EXTINF:-1 tvg-id="News18TamilNadu.in",News 18 Tamil (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCat88i6_rELqI_prwvjspRA.m3u8
+#EXTINF:-1 tvg-id="NewsOne.pk",News One (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCjHWKUbljF4hp3s5PbgK9uA.m3u8
+#EXTINF:-1 tvg-id="NewsStateMPCHG.in",News State MP & CHG (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCz6sfaICYbi4LEXC-022qpg.m3u8
+#EXTINF:-1 tvg-id="NireekshanaTV.in",Nireekshana TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCE2odzsjyDOClc7lCIdZ6OQ.m3u8
+#EXTINF:-1 tvg-id="NTN24.co",NTN24 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEJs1fTF3KszRJGxJY14VrA.m3u8
+#EXTINF:-1 tvg-id="NTV.bd",NTV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCwO2IsXSjviAoYnaYS2dAhQ.m3u8
+#EXTINF:-1 tvg-id="NTVKenya.ke",NTV Kenya (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
+#EXTINF:-1 tvg-id="",NTV News24 (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+#EXTINF:-1 tvg-id="NTVUganda.ug",NTV Uganda (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCwga1dPCqBddbtq5KYRii2g.m3u8
+#EXTINF:-1 tvg-id="OdishaTV.in",Odisha TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCCgLMMp4lv7fSD2sBz1Ai6Q.m3u8
+#EXTINF:-1 tvg-id="OnkarOnlyTruthTV.in",Onkar Bangla (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEehFQbkw72mMNSqH-7YJ_w.m3u8
+#EXTINF:-1 tvg-id="OrasngHimala.ph",Oras Ng Himala (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCG_nkfwsIhO1OiRQUGfdLyw.m3u8
+#EXTINF:-1 tvg-id="PadangTV.id",Padang TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJS8e5S7Bbf4cctlJenY2Uw.m3u8
+#EXTINF:-1 tvg-id="PaighanTV.pk",Paigham TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCi-vOBG7Jgk_nKAG1Zd0R5g.m3u8
+#EXTINF:-1 tvg-id="ParliamentofKenya.ke",Parliament of Kenya (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXuseB7juWB7DIgTJcwtHFQ.m3u8
+#EXTINF:-1 tvg-id="PatrikaRajasthan.in",Patrika Rajashtan (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCWk-7Yosyvzln9ZzJg8BvVg.m3u8
 #EXTINF:-1 tvg-id="PaxEconomyTV.kr",Pax Economy TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UC6UEuBvk-0rmV4FUu0LDiTw.m3u8
-#EXTINF:-1 tvg-id="PBO.pe",PBO Digital (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCgR0st4ZLABi-LQcWNu3wnQ.m3u8
+#EXTINF:-1 tvg-id="PBCJamaicaTV.jm",PBC Jamaica TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC8X0kkF7HNdWUxTMjAagJxw.m3u8
+#EXTINF:-1 tvg-id="",Peppa Pig Français
+https://ythls.armelin.one/channel/UCXptamDYEVcU4JCio30hYTw.m3u8
+#EXTINF:-1 tvg-id="",Pershyy Zakhidnyy (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGVbKMWygms_c1mOj1uTZUA.m3u8
+#EXTINF:-1 tvg-id="",POCOYO en FRANÇAIS
+https://ythls.armelin.one/channel/UC0pHdbHRCREJJQhGSUDH61g.m3u8
+#EXTINF:-1 tvg-id="PokemonKidsTVJapanese.jp",Pokémon Kids TV Japanese (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCH0JJtRn2syic5xxavMKQ4Q.m3u8
+#EXTINF:-1 tvg-id="PolimerNews.in",Polimer News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC8Z-VjXBtDJTvq6aqkIskPg.m3u8
+#EXTINF:-1 tvg-id="PowervisionTV.in",Powervision TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
+#EXTINF:-1 tvg-id="Prime9News.in",Prime9 News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCLTZ5y21NnklrxpU5AfWd8w.m3u8
+#EXTINF:-1 tvg-id="PrimeMedia.et",Prime Media (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCsSQyY8qqoyImIYFmz1uyDw.m3u8
+#EXTINF:-1 tvg-id="PTV4.ph",PTV 4 (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJCUbMaY593_4SN1QPG7NFQ.m3u8
 #EXTINF:-1 tvg-id="PTVBolan.pk",PTV Bolan (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCKMXh66UdpueUyQLQIqZSyg.m3u8
-#EXTINF:-1 tvg-id="RaphaChannelTV.za",Rapha TV (720p) [Not 24/7]
-https://ythls.armelin.one/channel/UCYo1cBqDWMAQ-_krJdEw9ew.m3u8
+#EXTINF:-1 tvg-id="",Puissance Télévision (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxSUslP_JMH3Bb50oXd1Nnw.m3u8
+#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in",Puthiya Thalaimurai (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCmyKnNRH0wH-r8I-ceP-dsg.m3u8
+#EXTINF:-1 tvg-id="",RAAGA (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCj3Rr8EGakWWoU6Su4KWidw.m3u8
+#EXTINF:-1 tvg-id="RadioCaracasRadio.ve",Radio Caracas Radio 750 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5AA3XP4_pXIELctSsH_L7w.m3u8
+#EXTINF:-1 tvg-id="TVTimorLeste.tl",Radio e Televisao Timor Leste (RTTL.EP) [Not 24/7]
+https://ythls.armelin.one/channel/UCtwMP_IzEm3r9PDuaYRUKLA.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in",Raj News Telugu (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyMei315xIaoJTp5YOYjTxA.m3u8
+#EXTINF:-1 tvg-id="RDTV.uy",Raquel Daruech TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxZ7Z0-z9EnTZAyKmeP2_MQ.m3u8
+#EXTINF:-1 tvg-id="RCMTV.co",RCM TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnPwQV0-W7S02i_omPEpJBg.m3u8
+#EXTINF:-1 tvg-id="RedeInternacionaldeTV.br",Rede Internacional de TV (RIT TV) (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+#EXTINF:-1 tvg-id="RiC.de",RiC (1080p) [Not 24/7] [Geo-blocked]
+https://ythls.armelin.one/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
+#EXTINF:-1 tvg-id="RioTVCamara.br",Rio TV Câmara (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+#EXTINF:-1 tvg-id="RizaNovaTV.uz",RizaNova TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDPnSqLmYqHadD6VkrRiarg.m3u8
+#EXTINF:-1 tvg-id="RozeNews.pk",Roze News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCfULVYTlFOpgb5B_bchTz3Q.m3u8
+#EXTINF:-1 tvg-id="RTNC.cd",RTNC (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCip2DNtZUPC82a_xLLTFcgA.m3u8
 #EXTINF:-1 tvg-id="TVCaraibes.ht",RTV Caraibes (480p) [Not 24/7]
 https://ythls.armelin.one/channel/UCWwP6VfG61i7BWSV0H3Jn9A.m3u8
+#EXTINF:-1 tvg-id="RTVDukagjini.xk",RTV Dukagjini (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCL3nrPOUK0MCcm5nFk800xQ.m3u8
+#EXTINF:-1 tvg-id="RTVYahoshuah.mg",RTV Yahoshuah (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcFeZJVvexIMNaqIWftCD3w.m3u8
+#EXTINF:-1 tvg-id="Rupavahini.lk",Rupavahini (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCi0cdSwyCHgPa95_nX457pw.m3u8
+#EXTINF:-1 tvg-id="SagarmathaTV.np",Sagarmatha TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCR0sb6TDx2vY0DGsLlDr5BA.m3u8
+#EXTINF:-1 tvg-id="SakshiTV.in",Sakshi TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCQ_FATLW83q-4xJ2fsi8qAw.m3u8
+#EXTINF:-1 tvg-id="SandeshNews.in",Sandesh News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCiAH2s_M6nPfGZk-PpfyPkg.m3u8
+#EXTINF:-1 tvg-id="SansadTV.in",Sansad TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCISgnSNwqQ2i8lhCun3KtQg.m3u8
+#EXTINF:-1 tvg-id="SathiyamTV.in",Sathiyam TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC2ziCMHFPWkFHjocUMXT__Q.m3u8
+#EXTINF:-1 tvg-id="SATVNews24H.jp",SATV News 24H (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCvF5vIejmf-H_XSluaBldfg.m3u8
+#EXTINF:-1 tvg-id="SBSNews.kr",SBS News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkinYTS9IHqOEwR1Sze2JTw.m3u8
+#EXTINF:-1 tvg-id="SBTRio.br",SBT Rio (720p) [Not 24/7] [Geo-blocked]
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="VTV.br",SBT VTV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+#EXTINF:-1 tvg-id="SenateTV.ar",Senado TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
+#EXTINF:-1 tvg-id="SenadoTV.py",Senado TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCMXLvWR4z1Z4P4JvubxMQtg.m3u8
+#EXTINF:-1 tvg-id="SenateofRomania.ro",Senatul României (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCpZswGPkx4fBwaZ_U5scXDw.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw",SET iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="SharjahRadioQuran.ae",Sharjah Radio Quran (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCn8lMRYDANs_1yAL3iuw7_g.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in",Shekinah TV (1080p)
+https://ythls.armelin.one/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
+#EXTINF:-1 tvg-id="ShivaLiveTV.ch",Shiva Live TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCi1UffPLvT0PbmU1qGVjlMQ.m3u8
+#EXTINF:-1 tvg-id="ShopCh.th",Shop Ch (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKrzHQD9zTLLhBAR8w4zaxA.m3u8
+#EXTINF:-1 tvg-id="ShraddhaTV.lk",Shraddha TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC1WREaxq8LRhdOOmzSFg2pA.m3u8
+#EXTINF:-1 tvg-id="",SINAR (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCt4ZHf2zhAzkq3iI5tG0yFg.m3u8
+#EXTINF:-1 tvg-id="SMNINewsChannel.ph",SMNI News Channel (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNaQMcnWvx95j7OG3217IMg.m3u8
+#EXTINF:-1 tvg-id="SonataTV.ua",Sonata TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCU7r0DqO0cGc5qeHXrXufYA.m3u8
+#EXTINF:-1 tvg-id="",StudioQualita
+https://ythls.armelin.one/channel/UC4ZNntU3CyEIH8RGH0n_5bw.m3u8
+#EXTINF:-1 tvg-id="STVNewsHokkaido.jp",STV News Hokkaido (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCOZv-6MiXqJdLpmYtR431Ow.m3u8
+#EXTINF:-1 tvg-id="SunNews.in",Sun News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCYlh4lH762HvHt6mmiecyWQ.m3u8
+#EXTINF:-1 tvg-id="SundomTV.fi",Sundom TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyDiTtktwmrc20Bvs_G4pow.m3u8
+#EXTINF:-1 tvg-id="",Super Truck Français
+https://ythls.armelin.one/channel/UC4u2o6tyE4vTrErXY9AN6Rw.m3u8
+#EXTINF:-1 tvg-id="Suria.sg",SuriaTV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCjDM2C3nXPGD_cGDyrrBT6w.m3u8
+#EXTINF:-1 tvg-id="SuvarnaNews.in",Suvarna News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCjElJyiXmQXnWmceQ1JyKrA.m3u8
+#EXTINF:-1 tvg-id="SwiebodzinTV.pl",Świebodzin TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEQZDk3FFLNM67Hx4jQaXVw.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw",Taiwan Plus (1080p)
+https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:-1 tvg-id="TanasuhTV.ly",Tanasuh (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRaoHR6b3zViY9QxfgFNntQ.m3u8
+#EXTINF:-1 tvg-id="TBC1.tz",TBC 1 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCEz71zXmApKBYiH1fReemeA.m3u8
+#EXTINF:-1 tvg-id="TBSNEWS.jp",TBS News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+#EXTINF:-1 tvg-id="TeleMagQuebec.ca",Télé-Mag Québec (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCNKXYT-Nng5LBMUQrZJ9zWA.m3u8
+#EXTINF:-1 tvg-id="TelefeCordoba.ar",Telefe Córdoba (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
+#EXTINF:-1 tvg-id="TelefeNoticias.us",Telefe Noticias (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UChxGASjdNEYHhVKpl667Huw.m3u8
+#EXTINF:-1 tvg-id="TelefeSantaFe.ar",Telefe Santa Fe (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCOkh97CpojxaoUris4jkiRQ.m3u8
+#EXTINF:-1 tvg-id="TeleRadyo.ph",TeleRadyo (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCs_VNu-FQ0WcJnD4QkmIL5w.m3u8
+#EXTINF:-1 tvg-id="Telesol.ar",Telesol (TLS) (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCG7dtDLsyjkyrfoo5oGtcXw.m3u8
+#EXTINF:-1 tvg-id="Televida.do",Televida Canal 41 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGwhsjKuqSNscX-XjtuF_yA.m3u8
+#EXTINF:-1 tvg-id="TelevisaDurango.mx",Televisa Durango (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
+#EXTINF:-1 tvg-id="TelevisaEstado.mx",Televisa EDO MEX (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+#EXTINF:-1 tvg-id="XHSTV.mx",Televisa Ensenada (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCFuWAM_YItwkHzDWDKtJULg.m3u8
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx",Televisa Guadalajara (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx",Televisa Monterrey (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
 #EXTINF:-1 tvg-id="TelevisaMorelos.mx",Televisa Morelos (720p) [Not 24/7]
 https://ythls.armelin.one/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx",Televisa Querétaro (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 tvg-id="TelevisaQuintanaRoo.mx",Televisa Quintana Roo (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
+#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx",Televisa San Luis Potosí (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
 #EXTINF:-1 tvg-id="XEWTTDT.mx",Televisa Tijuana (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCjwXjnO3BGePtB7gSKEpoqA.m3u8
+#EXTINF:-1 tvg-id="TelevisaVictoria.mx",Televisa Victoria (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
+#EXTINF:-1 tvg-id="TVSantCugat.es",Televisió Sant Cugat (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCoFs7RGrmWQkqU5KNNGvCjA.m3u8
+#EXTINF:-1 tvg-id="Elmouritania.mr",Télévision de Mauritanie (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
+#EXTINF:-1 tvg-id="TelevizeFILMpro.cz",Televize FILMpro (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCijOX8ka7E2cBsULVgY50QA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaGorzow.pl",Telewizja Gorzów (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCt5sVDyzu0NhrjR-d_b-lhg.m3u8
+#EXTINF:-1 tvg-id="TelewizjaNarew.pl",Telewizja Narew (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdBYAZdagaQcr-Fe15ifMPQ.m3u8
+#EXTINF:-1 tvg-id="TelewizjaOlsztyn.pl",Telewizja Olsztyn (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC0vwjMGoZpwG_lLBuF6_ALA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaSudecka.pl",Telewizja Sudecka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC2vPjreaN9Jpan45p66H7hA.m3u8
+#EXTINF:-1 tvg-id="TelewizjaZabrze.pl",Telewizja Zabrze (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCyQL0IjtptnQ9PxmAfH3fKQ.m3u8
+#EXTINF:-1 tvg-id="TestimonyTV.ke",Testimony TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDmLoDM4S60MhbfmO2yr_SA.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa",Thikrayat TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCnUrsg20rwVmeK7hai7IdMQ.m3u8
-#EXTINF:-1 tvg-id="ApostropheTV.ua",Апостроф TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
+#EXTINF:-1 tvg-id="TigraiTV.et",Tigrai TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCW0FmkMO7KkYdIiNKXpY9Ng.m3u8
+#EXTINF:-1 tvg-id="TimeNews.pk",Time News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCnXxxqVgw9ttLiozpVPjHuw.m3u8
+#EXTINF:-1 tvg-id="TN.ar",TN Todo Noticias (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
+#EXTINF:-1 tvg-id="ToyorAlJannah.jo",Toyor Al-Jannah (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZbpK_Lgctew3YNELlG2ecw.m3u8
+#EXTINF:-1 tvg-id="TrinitasTV.ro",Trinitas TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcqFHIDYfKsaJ5KXZjzW7ZQ.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr",TRT Arabi (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
+#EXTINF:-1 tvg-id="TrustTV.ng",Trust TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTlqstA2Wrt4fimd_VWKr8g.m3u8
+#EXTINF:-1 tvg-id="TuCanalTV.pa",Tu Canal TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCziREKwhu2KgoDVNlRrfMBw.m3u8
+#EXTINF:-1 tvg-id="",Turn On NZ [Not 24/7]
+https://ythls.armelin.one/channel/UCi0UQziRcKI6hHjLaV8_bOg.m3u8
+#EXTINF:-1 tvg-id="TV7Bordeaux.fr",TV7 Bordeaux (720p)
+https://ythls.armelin.one/channel/UCV9yrdAfyd1BdDyd4tDdVxg.m3u8
+#EXTINF:-1 tvg-id="TV2040.hu",TV2040 (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC9-eDX-ZzjriryVPE2VnEfQ.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.cr",TV Asamblea Legislativa (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCWN0rIWneMdqRmZ4yHs5GuA.m3u8
+#EXTINF:-1 tvg-id="TVBratislava.sk",TV Bratislava (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCoLgBFFbzGgYJpmcdV0GT4w.m3u8
+#EXTINF:-1 tvg-id="TVCamara.py",TV Cámara (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRVeQhiqhUAxRRUod7F-K3A.m3u8
+#EXTINF:-1 tvg-id="TelevisionCanaria.es",TV Canaria (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCTQrUTmzCWIfG6h4EVCdOCQ.m3u8
+#EXTINF:-1 tvg-id="TVCarmona.es",TV Carmona (360p) [Not 24/7]
+https://ythls.armelin.one/channel/UCRniQmtUlHJedl36F0Mehvw.m3u8
+#EXTINF:-1 tvg-id="TVCorreio.br",TV Correio (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+#EXTINF:-1 tvg-id="TVDami.pl",TV Dami (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCL1u3cY7_nPjbZmKljCy_Cw.m3u8
+#EXTINF:-1 tvg-id="TVDerana.lk",TV Derana (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCbkMFGQ_RWIf0OiYeOpf6Ng.m3u8
+#EXTINF:-1 tvg-id="TVHronka.sk",TV Hronka (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdsKjmExW-0pFskKYbjNIQg.m3u8
+#EXTINF:-1 tvg-id="TVJustica.br",TV Justiça (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+#EXTINF:-1 tvg-id="TVPanorama.sk",TV Panoráma (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCSJkeYkugXF6DZ8jJtmTNWQ.m3u8
+#EXTINF:-1 tvg-id="SelangorTV.my",TV Selangor (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
+#EXTINF:-1 tvg-id="TVSenado.br",TV Senado (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+#EXTINF:-1 tvg-id="TVSerraDourada.br",TV Serra Dourada (1080p)
+https://ythls.armelin.one/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
+#EXTINF:-1 tvg-id="TVSlonExtra.ba",TV Slon Extra (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCX0QrFrUrE3Vu7wUcvwQKSw.m3u8
+#EXTINF:-1 tvg-id="TVSlowianin.pl",TV Słowianin (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCpUZqLZNnVwlBIeOZYslMDw.m3u8
+#EXTINF:-1 tvg-id="UCSGTV.ec",UCSG TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCH5499PHqkqKPsGEUJl5lZg.m3u8
+#EXTINF:-1 tvg-id="UnitedTV.gh",United TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCA2f1lPcwYpBKA4JBMBHDSQ.m3u8
+#EXTINF:-1 tvg-id="UruguayPresidencia.uy",Uruguay Presidencia (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCz1Li9JcQB9XP-HfgN0IYLQ.m3u8
+#EXTINF:-1 tvg-id="V6News.in",V6 News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCDCMjD1XIAsCZsYHNMGVcog.m3u8
+#EXTINF:-1 tvg-id="VaticanNewsEnglish.va",Vatican News English (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxIsefyl9g9A5SGWA4FvGIA.m3u8
+#EXTINF:-1 tvg-id="VaticanNewsFrancais.va",Vatican News Français (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCQxVySG5g2aC-Uz9NhpyiFg.m3u8
+#EXTINF:-1 tvg-id="VaticanNewsPortugues.va",Vatican News Português (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCGYSq4b4DXmtK4jyq6r-FYg.m3u8
+#EXTINF:-1 tvg-id="VenusHD.pk",Venus HD (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCau2UiIsh9Ak34pgrqm3J0w.m3u8
+#EXTINF:-1 tvg-id="ElWatania1.tn",Watania 1 (1080p)
+https://ythls.armelin.one/channel/UCdvWVsmQBROkgcGzVep73oA.m3u8
+#EXTINF:-1 tvg-id="Watania2.tn",Watania 2 (480p)
+https://ythls.armelin.one/channel/UCJW9gatYczI191TunQxMGbA.m3u8
+#EXTINF:-1 tvg-id="",WB Kids Français
+https://ythls.armelin.one/channel/UCqvIdlrnd4DCcqp2DZwaZYw.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp",Weathernews (1080p)
+https://ythls.armelin.one/channel/UCNsidkYpIAQ4QaufptQBPHQ.m3u8
+#EXTINF:-1 tvg-id="WELT.de",WELT (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCZMsvbAhhRblVGXmEXW8TSA.m3u8
+#EXTINF:-1 tvg-id="WestAfricaTV.gn",West Africa TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxXEr1iy6EJssFRI9uYmiuw.m3u8
+#EXTINF:-1 tvg-id="WestnileTV.ug",Westnile TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC3tX2RyYu1wH6yRv8498xIA.m3u8
+#EXTINF:-1 tvg-id="WontumiTV.gh",Wontumi TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCn7CnwFDT3wXBE3xqQm5riQ.m3u8
+#EXTINF:-1 tvg-id="WRMTV.tz",WRM TV (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxIKRWSaLH40f6BLaHakg2w.m3u8
+#EXTINF:-1 tvg-id="YTN.kr",YTN (1080p)
+https://ythls.armelin.one/channel/UChlgI3UHCOnwUGzWzbJ3H5w.m3u8
+#EXTINF:-1 tvg-id="YTNWorld.kr",YTN Korean (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCizGMtU0Lt-O9X0tLJzyZ2Q.m3u8
+#EXTINF:-1 tvg-id="ZachodniopomorskaTelewizja.pl",Zachodniopomorska Telewizja (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCseu7OBsXzSg3sW1_Lfek9Q.m3u8
+#EXTINF:-1 tvg-id="ZadTV.sa",ZAD TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
+#EXTINF:-1 tvg-id="ZBCNews.zw",ZBC News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxiW1iTMYgjyh7Qgkiyj2PQ.m3u8
+#EXTINF:-1 tvg-id="Zee24Ghanta.in",Zee 24 Ghanta (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCdF5Q5QVbYstYrTfpgUl0ZA.m3u8
+#EXTINF:-1 tvg-id="Zee24Kalak.in",Zee 24 Kalak (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCkNL_TQio--h85-14lUVY3A.m3u8
+#EXTINF:-1 tvg-id="Zee24Taas.in",Zee 24 Taas (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCVbsFo8aCgvIRIO9RYwsQMA.m3u8
+#EXTINF:-1 tvg-id="ZeeDelhiNCRHaryana.in",Zee Delhi NCR Haryana (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCG6L5cIg2XZvXVksq5B9edw.m3u8
+#EXTINF:-1 tvg-id="ZeeKannadaNews.in",Zee Kannada News (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCUSY2EZK7_2_1-wsZVbdzsQ.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabHaryanaHimachal.in",Zee Punjab Haryana Himachal (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UCmhe0p2-m_KURZYQNchK-QQ.m3u8
+#EXTINF:-1 tvg-id="ZeeTamil.in",Zee Tamil (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in",Zee Uttar Pradesh/Uttarakhand (480p) [Not 24/7]
+https://ythls.armelin.one/channel/UCWmwc3u2ikBG2Xfitc_26gg.m3u8
+#EXTINF:-1 tvg-id="",ZoomerRadio
+https://ythls.armelin.one/channel/UCon2a9opDXmI-i3Be6PYBQA.m3u8
+#EXTINF:-1 tvg-id="RadaTV.ua",Рада ТВ (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC5V8mErVFOpcQXEb3y9IMZw.m3u8
+#EXTINF:-1 tvg-id="UNIANTV.ua",УНІАН (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCKCVeAihEfJr-pGH7B73Wyg.m3u8

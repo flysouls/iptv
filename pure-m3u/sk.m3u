@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="TV8.sk",Televízia OSEM (360p)
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRomana.sk",TV Romana (720p)
-http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec",Radio Fantástica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
+#EXTINF:-1 tvg-id="TVLegislativa.ec",TV Legislativa (1080p)
+http://181.198.32.153:8080/hls/stream.m3u8

@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr",Euronews English
-https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsFrench.fr",Euronews French
-https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
-#EXTINF:-1 tvg-id="EuronewsSerbia.rs",Euronews Serbia (1080p)
-https://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/playlist.m3u8

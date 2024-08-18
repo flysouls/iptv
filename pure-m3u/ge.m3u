@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVC.ge",TVC (1080p)
+http://31.146.5.178:8087/play/a009/index.m3u8

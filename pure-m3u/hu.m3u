@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CsurgoTV.hu",Csurgó TV (720p)
+http://79.120.178.90:1935/csurgotv/csurgolive/playlist.m3u8
+#EXTINF:-1 tvg-id="DSTV.hu",DSTV (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="LiceumTV.hu",Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1 tvg-id="SoltvadkertiTelevizio.hu",Soltvadkerti Televízió (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1 tvg-id="WilliamsTV.hu",Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8

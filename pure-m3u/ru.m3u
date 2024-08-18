@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",DanceHits80
+http://89.111.136.7:8080/index.m3u8
+#EXTINF:-1 tvg-id="",Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="",Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 tvg-id="KinopremyeraHD.ru",Кинопремьера HD
+http://45.159.74.13/Kinopremera/index.m3u8
+#EXTINF:-1 tvg-id="LDPRTV.ru",ЛДПР ТВ (720p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="PervyyTulskiy.ru",Первый Тульский (576p) [Not 24/7]
+http://5.164.24.83/tula/1tv_low/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru",РБК (560p)
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="SamaraGIS.ru",Самара ГИС (1080p) [Not 24/7]
+http://45.67.57.9:8080/new/new/playlist.m3u8

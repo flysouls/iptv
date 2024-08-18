@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Couleur3.ch",Couleur 3 (720p)
-https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxTV.ch",MaxTV/Dieu TV (1080p)
-https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele1.ch",Tele 1 (1080p)
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_xias5bqq/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="TeleM1.ch",Tele M1 (720p) [Not 24/7]
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_ljzy3evp/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="TVO.ch",TVO (CH) (720p)
-https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="AlpenlandTV.ch",Alpenland TV (720p)
+https://edge14.vedge.infomaniak.com/livecast/ik:alpen-wellelivestream/playlist.m3u8

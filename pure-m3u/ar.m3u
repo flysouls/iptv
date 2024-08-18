@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar",Disney Channel Latin America (480p)
+http://168.181.122.234:8000/play/a038/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJuniorLatinAmerica.ar",Disney Junior Latin America (480p)
+http://168.181.122.234:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-id="Radiocanal.ar",Radiocanal San Francisco (1080p)
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="UNAMTransmedia.ar",UNAM Transmedia (1080p)
+http://192.100.186.53:8090/hls/live.stream.m3u8

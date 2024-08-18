@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BelMuzTV.by",БелМузТВ
+http://178.124.179.122:8088/BelMuzTV/index.m3u8
+#EXTINF:-1 tvg-id="",Плюс ТВ
+http://178.124.179.122:8088/PlusTV/index.m3u8

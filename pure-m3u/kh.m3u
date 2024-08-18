@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",Netlink TV (720p)
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TVK.kh",TVK (720p)
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh",TVK 2 (720p)
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PNN.kh",PNN (720p)
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh",Town TV (720p)
-https://live.kh.malimarcdn.com/live/towntv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh",Bayon TV (720p)
-https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh",TV5 Cambodia (720p)
-https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MSJTV.kh",MSJ TV (720p)
+http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8

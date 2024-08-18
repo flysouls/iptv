@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AlQaheraNews.eg",Al Qahera News (1080p) [Not 24/7]
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlhayatTV.eg",Alhayat TV (720p)
-https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TheKingdomSat.eg",The Kingdom Sat (576p)
-https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8

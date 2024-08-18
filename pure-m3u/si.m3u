@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GTV.si",GTV (360p) [Not 24/7]
+http://91.220.221.60/gtv_hls/gtv_03.m3u8

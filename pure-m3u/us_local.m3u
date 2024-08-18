@@ -1,3 +1,13 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="KBSVDT1.us",AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 tvg-id="CoxEnfieldPublicAccess.us",Cox Enfield Public Access Channel 15 (Einfield CT) (720p)
+http://184.185.54.232/live-10/live/live.m3u8
+#EXTINF:-1 tvg-id="",Cox Manchester Public Access Channel 15 (Manchester CT) (720p)
+http://98.186.28.168/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="",Cox Meriden Public Access Channel 15 (Meriden CT) (720p)
+http://174.70.215.123/live-2/live/live.m3u8
 #EXTINF:-1 tvg-id="KCWXDT1.us",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us",WOLO-DT1 ABC 25 (Columbia SC) (720p)
+http://143.244.60.30/ABC_EAST/index.m3u8

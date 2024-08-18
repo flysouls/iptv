@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AgroBrasilTV.br",AgroBrasil TV (720p) [Not 24/7]
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8

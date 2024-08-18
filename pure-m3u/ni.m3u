@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal4.ni",Canal 4 (480p) [Not 24/7]
+http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
+#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p)
+http://138.117.4.70:8075/channel9/playlist.m3u8

@@ -1,17 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlientoVision.us",Aliento Vision (720p) [Not 24/7]
-http://209.133.209.195:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us",FOX Business (1080p)
-http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 tvg-id="WFXTDT1.us",FOX East (WFXT) (720p)
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="FunRoads.us",Fun Roads (404p)
-http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 tvg-id="NickelodeonEast.us",Nickelodeon East (720p)
-http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
 http://143.244.60.30/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="RJTV.us",Radio Javan TV (1080p)
-http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TropicalMusicTV.us",Tropical Music TV (720p)
-http://68.235.37.11:1935/vallenato/vallenato/.m3u8

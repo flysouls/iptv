@@ -1,13 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="324.es",3/24 (1080p)
-https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 tvg-id="AlcarriaTV.es",Alcarria TV (576p) [Not 24/7]
-http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 tvg-id="CancioneroTV.es",Cancionero TV (360p)
-http://89.140.229.5/hls1/cancionero.m3u8
 #EXTINF:-1 tvg-id="PieraTV.es",Piera TV (720p) [Not 24/7]
 http://51.254.47.72:1935/piera/smil:piera.smil/master.m3u8
-#EXTINF:-1 tvg-id="TuyaLaJandaTelevision.es",Tuya La Janda Televisión (1080p)
-http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.es",Nickelodeon
-http://185.189.225.150:85/nickelodeon/index.m3u8

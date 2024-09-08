@@ -5,15 +5,21 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js",
+    "build": "node index.js",
     "merge": "node merge.js",
-    "build": "npm run start && npm run merge",
+    "fetch": "node fetch.js",
+    "clear": "node clear.js",
+    "start": "npm run clear && npm run fetch && npm run build && npm run merge",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
+    "node-fetch": "^3.3.2",
     "progress": "^2.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.4"
   }
 }

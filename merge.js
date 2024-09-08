@@ -5,24 +5,24 @@ import progress from 'progress';
 /**
  * get m3u files
  */
-const getAllPureM3uFiles = async () => {
-    const files = await fs.readdir('./pure-m3u');
+const getAllM3uFiles = async (dirpath) => {
+    const files = await fs.readdir(dirpath);
     return files;
 }
 
 /**
  * generate m3u file
  */
-const generateM3uFile = async (dirpath) => {
+const generateM3uFile = async (dirPath, target, filter = () => true) => {
     console.log('=== mession collect start ===');
-    const files = await getAllPureM3uFiles(dirpath);
-    const allM3uContent = await Promise.all(files.map(async (item) => {
-        const fileContent = await fs.readFile(path.resolve('.', dirpath, item), { encoding: 'utf-8' });
+    const files = await getAllM3uFiles(dirPath);
+    const allM3uContent = await Promise.all(files.filter(filter).map(async (item) => {
+        const fileContent = await fs.readFile(path.resolve('.', dirPath, item), { encoding: 'utf-8' });
         return fileContent;
     }));
     console.log('=== mession collect complete ===');
 
-    const targetPath = path.resolve('./all', `${dirpath}.m3u`);
+    const targetPath = path.resolve('./all', `${target}.m3u`);
 
     console.log('=== mission generate start ===');
     let content = '#EXTM3U \n';
@@ -43,9 +43,11 @@ const generateM3uFile = async (dirpath) => {
 const main = async () => {
     console.log('=== merge mession start ===');
 
-    await generateM3uFile('./m3u');
+    await generateM3uFile('./m3u', './m3u');
 
-    await generateM3uFile('./pure-m3u');
+    await generateM3uFile('./pure-m3u', './pure-m3u');
+
+    await generateM3uFile('./pure-m3u', './cn', (val) => val.startsWith('cn'));
 
     console.log('=== merge mession complete ===');
 }

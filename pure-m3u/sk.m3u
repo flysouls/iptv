@@ -2,20 +2,4 @@
 #EXTINF:-1 tvg-id="Jednotka.sk",Jednotka (960p)
 http://213.81.133.133:8080/jednotka/index.m3u8
 #EXTINF:-1 tvg-id="Markiza.sk",Markíza (1080p)
-http://88.212.7.10/live/test_markiza_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk",Televízia OSEM (576p)
-http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk",Televízia OSEM (360p)
-http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="TVDK.sk",TV DK (486p) [Not 24/7]
-http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLiptov.sk",TV Liptov (1080p)
-http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRomana.sk",TV Romana (720p)
-http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="MarkizaDoma.sk",Doma (1080p)
-http://88.212.7.11/live/test_doma_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport.sk",:Šport (1080p)
-http://88.212.7.10/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="24.sk",:24 (1080p)
-http://88.212.7.10/live/test_trojka_25p/playlist.m3u8
+http://88.212.15.27/live/test_markiza_25p/playlist.m3u8

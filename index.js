@@ -26,9 +26,9 @@ const timeoutPromise = async (time, promise) => {
  * check if url avaliable
  */
 const checkUrlAvaliable = async (url) => {
-    const time = 3000;
+    const time = 500;
     try {
-        await timeoutPromise(time, () => axios.get(url, { timeout: time }));
+        await timeoutPromise(time, () => axios.head(url, { timeout: time }));
         return true;
     } catch (err) {
         return false;

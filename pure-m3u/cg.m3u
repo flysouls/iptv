@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="DRTVInternational.cg",DRTV International (720p)
 http://51.254.199.122:8080/drtv/index.m3u8
-#EXTINF:-1 tvg-id="MabokeTV.cg",Maboke TV (720p)
-http://51.254.199.122:8080/mabokeTV/index.m3u8
 #EXTINF:-1 tvg-id="TeleCongo.cg",Télé Congo (720p)
-http://51.254.199.122:8080/telecongo/index.m3u8
+http://51.254.199.122:8080/telecongo/index.m3u8

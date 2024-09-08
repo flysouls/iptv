@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DDSports.in",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="FlowersTV.in",Flowers TV (576p)
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="IsaiAruvi.in",Isai Aruvi (576p)
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 tvg-id="ManoramaNews.in",Manorama News (576p)
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-id="MathrubhumiNews.in",Mathrubhumi News (576p) [Not 24/7]
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1 tvg-id="PublicMusic.in",Public Music (576p) [Not 24/7]
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in",Disney Junior India (576p)
+http://103.124.251.164:28015/play/a02m/index.m3u8
 #EXTINF:-1 tvg-id="Vision.in",Vision (1080p)
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8

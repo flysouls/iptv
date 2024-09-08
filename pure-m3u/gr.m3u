@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="4E.gr",4E (720p)
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DELTATV.gr",DELTA TV (720p)
-http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8

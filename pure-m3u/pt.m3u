@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="KuriakosMusic.pt",Kuriakos Music (1080p)
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPiAsia.pt",RTP Internacional Asia (480p)
-http://210.210.155.37/qwr9ew/s/s38/index.m3u8

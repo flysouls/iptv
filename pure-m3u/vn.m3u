@@ -1,21 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BacKanTV.vn",Bac Kan TV (406p)
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-id="CaoBangTV.vn",Cao Bang TV (480p)
 http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV1.vn",Đồng Nai 1 (360p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DongNaiTV2.vn",Đồng Nai 2 (576p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HaGiangTV.vn",Ha Giang TV (406p)
-http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-id="KhanhHoaTV.vn",Khanh Hoa TV (720p)
 http://210.245.20.94/hls/ktv1.m3u8
 #EXTINF:-1 tvg-id="LamDongTV.vn",Lam Dong TV (720p)
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PhuYenTV.vn",Phu Yen TV (360p)
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 tvg-id="QPVN.vn",QPVN (720p)
-http://27.76.137.122:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QuangNgaiTV.vn",Quang Ngai TV (720p)
-http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8
+http://118.107.85.5:1935/live/smil:PTQ.smil/playlist.m3u8

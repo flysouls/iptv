@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Canal4.sv",Canal 4 (480p)
-http://45.5.116.178:8000/play/a03p/index.m3u8
-#EXTINF:-1 tvg-id="Canal4.sv",Canal 4 (480p)
-http://204.157.251.250:8000/play/a06a/index.m3u8

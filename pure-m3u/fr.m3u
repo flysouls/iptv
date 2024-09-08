@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="20MinutesTV.fr",20 Minutes TV
-https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:-1 tvg-id="CDirect.fr",CDirect (360p)
-http://51.254.199.122:8080/cdirectTV/index.m3u8
+http://51.254.199.122:8080/cdirectTV/index.m3u8

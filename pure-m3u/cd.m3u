@@ -6,4 +6,4 @@ http://51.254.199.122:8080/MIKUBATV/index.m3u8
 #EXTINF:-1 tvg-id="NyotaTV.cd",Nyota TV (360p) [Not 24/7]
 http://51.254.199.122:8080/noyaTV/index.m3u8
 #EXTINF:-1 tvg-id="PSTVHD.cd",PSTV HD (480p) [Not 24/7]
-http://51.254.199.122:8080/PSTV/index.m3u8
+http://51.254.199.122:8080/PSTV/index.m3u8

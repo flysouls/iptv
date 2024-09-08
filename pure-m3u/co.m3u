@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ViveTV.co",Vive TV Colombia (1080p)
-http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalDos.co",Canal Dos
-http://131.221.41.94/hls/canal2.m3u8

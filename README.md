@@ -7,7 +7,7 @@
 [iptv](https://github.com/iptv-org/iptv.git)
 
 ## 目录介绍
-- /m3u 存放手动复制过来的 m3u 资源
+- /m3u 存放脚本复制过来的 m3u 资源
 - /pure-m3u 存放剔除过不可用资源的 m3u
 - /all 存放所有 m3u 汇总数据
 

@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="WFXTDT1.us",FOX East (WFXT) (720p)
-http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NicktoonsEast.us",NickToons (720p)
-http://143.244.60.30/NICKTOONS/index.m3u8

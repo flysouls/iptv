@@ -94,7 +94,6 @@ const main = async () => {
     promiseQueue.done(() => {
         console.timeEnd('=== generate mession ===');
     })
-
 }
 
 main();

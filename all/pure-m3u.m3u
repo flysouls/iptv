@@ -1,22 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="YasTV.ae@SD",Yas TV (1080p) 
-http://213.57.91.138:8000/play/a059 
-#EXTINF:-1 tvg-id="ZeeAflam.ae@SD",Zee Aflam (576p) 
-http://213.57.91.138:8000/play/a05s 
-#EXTINF:-1 tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p) 
-http://213.57.91.138:8000/play/a05t 
-#EXTINF:-1 tvg-id="ZeeAlwan.ae@Egypt",Zee Alwan Egypt (576p) 
-http://213.57.91.138:8000/play/a05u 
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p) 
-http://201.230.121.186:8000/play/a0fb/index.m3u8 
-#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (720p) 
-http://104.238.205.28:8989/278773_.m3u8 
-#EXTINF:-1 tvg-id="PrimerTV.br@SD",Primer TV (1080p) 
-http://200.194.238.229:8383/live/primer/playlist.m3u8 
-#EXTINF:-1 tvg-id="RecordTVInteriorSP.br@SD",RecordTV Interior SP 
-http://200.77.176.130:8000/udp/224.0.0.4:49152 
-#EXTINF:-1 tvg-id="RedeCNTSalvador.br@SD" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64;rv:60.0)Gecko/20100101 Firefox/67.0",Rede CNT Salvador (576i) 
-http://168.205.87.198:8555/live/1368/123456/150.m3u8 
+#EXTINF:-1 tvg-id="Radiocanal.ar@SD",Radiocanal San Francisco (1080p) 
+http://204.199.3.2/.m3u8 
 #EXTINF:-1 tvg-id="ProbashiTVNews.ca@SD",Probashi TV News 
 http://158.69.24.53:8080/probashi_tv/index.m3u8 
 #EXTINF:-1 tvg-id="SardariTV.ca@SD",Sardari TV (1080p) [Not 24/7] 
@@ -75,10 +59,6 @@ http://183.64.181.25:40023/rongchang01.m3u8
 http://118.81.195.79:9003/hls/22/index.m3u8 
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD",黑龙江卫视 (2160p) 
 http://118.81.195.79:9003/hls/31/index.m3u8 
-#EXTINF:-1 tvg-id="ColorVision.do@SD",Color Vision (576p) [Not 24/7] 
-http://190.110.36.254/COLORVISION/index.m3u8 
-#EXTINF:-1 tvg-id="Coral39.do@SD",Coral 39 [Not 24/7] 
-http://181.189.244.252:8000/play/a00y/index.m3u8 
 #EXTINF:-1 tvg-id="TeleAntillas.do@SD",Tele Antillas (480p) 
 http://181.189.244.252:8000/play/a00x/index.m3u8 
 #EXTINF:-1 tvg-id="Telefuturo.do@SD",Telefuturo (1080p) 
@@ -127,6 +107,8 @@ http://176.65.146.237:8401/play/a09k/index.m3u8
 http://193.225.32.62:8890/live.m3u8 
 #EXTINF:-1 tvg-id="JawaPosTV.id@SD",Jawa Pos TV (720p) 
 http://122.248.43.242:1935/JAWAPOSTVSBY/_definst_/myStream/playlist.m3u8 
+#EXTINF:-1 tvg-id="JawaPosTV.id@Bali",Jawa Pos TV Bali (576p) 
+http://122.248.43.242:1935/JAWAPOSTVBALI/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Jakarta",Jawa Pos TV Jakarta (720p) 
 http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Semarang",Jawa Pos TV Semarang (720p) 
@@ -155,6 +137,8 @@ http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8 
 #EXTINF:-1 tvg-id="STV.id@SD",STV (720p) [Not 24/7] 
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8 
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in@SD",Colors Cineplex Bollywood (576p) 
+http://103.182.170.32:8888/play/a01o 
 #EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (576p) 
 http://103.182.170.32:8888/play/a01v 
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p) 
@@ -167,8 +151,6 @@ http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8 
 #EXTINF:-1 tvg-id="HLAQDTV.kr@SD",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7] 
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8 
-#EXTINF:-1 tvg-id="HLDRDTV.kr@SD",SBS CJB (540p) [Not 24/7] 
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8 
 #EXTINF:-1 tvg-id="HLDQDTV.kr@SD",SBS JTV (406p) [Not 24/7] 
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="TVCNews.ng@SD",TVC News 
@@ -195,14 +177,14 @@ http://89.38.8.130:39443
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8 
 #EXTINF:-1 tvg-id="LDPRTV.ru@SD",ЛДПР ТВ (720p) 
 http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8 
+#EXTINF:-1 tvg-id="LDPRTV.ru@SD",ЛДПР ТВ (480p) 
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8 
 #EXTINF:-1 tvg-id="MatchArena.ru@SD",Матч! Арена 
 http://194.143.148.28:8080/MatchArena/index.m3u8 
 #EXTINF:-1 tvg-id="MoyaPlaneta.ru@SD",Моя Планета 
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8 
 #EXTINF:-1 tvg-id="RBKTV.ru@SD",РБК (560p) 
 http://92.50.128.180/utv/1358/index.m3u8 
-#EXTINF:-1 tvg-id="SBTTV.th@SD",SBT TV 
-http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8 
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD",Med Muzik (1080p) 
 http://54.36.110.140/live3/live3.m3u8 
 #EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV 
@@ -215,8 +197,6 @@ http://194.50.51.34/playlist.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8 
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD",Общественное Независимое Телевидение (576p) 
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8 
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD",Первый городской (Одесса) (1080p) [Not 24/7] 
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8 
 #EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD",Первый Городской (Одесса) (576p) 
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8 
 #EXTINF:-1 tvg-id="MTVHitsEurope.uk@SD",MTV Hits Europe 
@@ -227,8 +207,8 @@ http://69.64.57.208/voxafrica/playlist.m3u8
 http://38.183.182.166:8000/play/a125/index.m3u8 
 #EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads (404p) 
 http://104.143.4.5:2080/funroads.m3u8 
-#EXTINF:-1 tvg-id="Galavision.us@East",Galavision 
-http://104.238.205.28:8989/278705_.m3u8 
+#EXTINF:-1 tvg-id="HITN.us@SD",HITN (480p) 
+http://200.12.41.194:8000/play/a003/index.m3u8 
 #EXTINF:-1 tvg-id="ImpactNetwork.us@SD",Impact Network 
 http://51.75.94.167/impact/index.m3u8 
 #EXTINF:-1 tvg-id="MotorTrend.us@SD",Motor Trend 

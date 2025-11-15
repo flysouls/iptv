@@ -3,8 +3,8 @@
 http://38.183.182.166:8000/play/a125/index.m3u8
 #EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads (404p)
 http://104.143.4.5:2080/funroads.m3u8
-#EXTINF:-1 tvg-id="Galavision.us@East",Galavision
-http://104.238.205.28:8989/278705_.m3u8
+#EXTINF:-1 tvg-id="HITN.us@SD",HITN (480p)
+http://200.12.41.194:8000/play/a003/index.m3u8
 #EXTINF:-1 tvg-id="ImpactNetwork.us@SD",Impact Network
 http://51.75.94.167/impact/index.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us@SD",Motor Trend

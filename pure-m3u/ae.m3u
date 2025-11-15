@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="YasTV.ae@SD",Yas TV (1080p)
-http://213.57.91.138:8000/play/a059
-#EXTINF:-1 tvg-id="ZeeAflam.ae@SD",Zee Aflam (576p)
-http://213.57.91.138:8000/play/a05s
-#EXTINF:-1 tvg-id="ZeeAlwan.ae@SD",Zee Alwan (576p)
-http://213.57.91.138:8000/play/a05t
-#EXTINF:-1 tvg-id="ZeeAlwan.ae@Egypt",Zee Alwan Egypt (576p)
-http://213.57.91.138:8000/play/a05u

@@ -113,10 +113,22 @@ const generateM3uFile = async (fileName) => {
     
     // 解析 M3U 内容
     const channels = parseM3uContent(content);
-    console.log(`📊 文件 ${fileName} 包含 ${channels.length} 个频道`);
+    const totalChannels = channels.length;
+    console.log(`📊 文件 ${fileName} 包含 ${totalChannels} 个频道`);
+    
+    // 更新全局统计
+    globalStats.totalChannels += totalChannels;
     
     if (channels.length === 0) {
         console.log(`⚠️  文件 ${fileName} 没有有效的频道信息`);
+        
+        // 记录空文件统计
+        globalStats.processedFiles++;
+        globalStats.fileStats.push({
+            fileName,
+            totalChannels: 0,
+            availableChannels: 0
+        });
         return;
     }
     
@@ -127,6 +139,7 @@ const generateM3uFile = async (fileName) => {
     });
     
     const pureM3uContentList = ['#EXTM3U'];
+    let availableChannels = 0;
     
     // 分批并行验证 URL
     const batchSize = CONCURRENT_URL_CHECKS;
@@ -146,6 +159,7 @@ const generateM3uFile = async (fileName) => {
                 if (result.available) {
                     pureM3uContentList.push(channel.metadata);
                     pureM3uContentList.push(channel.url);
+                    availableChannels++;
                 }
                 
                 // 更新进度条
@@ -154,16 +168,75 @@ const generateM3uFile = async (fileName) => {
         });
     }
     
+    // 更新全局统计
+    globalStats.availableChannels += availableChannels;
+    globalStats.processedFiles++;
+    globalStats.fileStats.push({
+        fileName,
+        totalChannels,
+        availableChannels
+    });
+    
     // 生成纯净文件
     if (pureM3uContentList.length > 1) {
         const targetPath = path.resolve('./pure-m3u/', fileName);
         await fs.writeFile(targetPath, pureM3uContentList.join('\n'));
-        console.log(`✅ 文件 ${fileName} 处理完成，有效频道: ${(pureM3uContentList.length - 1) / 2}`);
+        const rate = ((availableChannels / totalChannels) * 100).toFixed(2);
+        console.log(`✅ 文件 ${fileName} 处理完成，有效频道: ${availableChannels}/${totalChannels} (${rate}%)`);
     } else {
-        console.log(`❌ 文件 ${fileName} 没有可用的频道`);
+        console.log(`❌ 文件 ${fileName} 没有可用的频道 (0/${totalChannels})`);
     }
     
     bar.terminate();
+}
+
+// 全局统计对象
+const globalStats = {
+    totalFiles: 0,
+    processedFiles: 0,
+    totalChannels: 0,
+    availableChannels: 0,
+    fileStats: [] // 每个文件的详细统计
+};
+
+/**
+ * 生成统计报告
+ */
+const generateStatsReport = () => {
+    console.log('\n📊 ========== 统计报告 ==========');
+    console.log(`📁 总文件数: ${globalStats.totalFiles}`);
+    console.log(`🔄 已处理文件: ${globalStats.processedFiles}`);
+    console.log(`📺 总频道数: ${globalStats.totalChannels}`);
+    console.log(`✅ 有效频道数: ${globalStats.availableChannels}`);
+    console.log(`📈 有效率: ${((globalStats.availableChannels / globalStats.totalChannels) * 100).toFixed(2)}%`);
+    
+    // 文件级别统计
+    if (globalStats.fileStats.length > 0) {
+        console.log('\n📋 文件级别统计:');
+        globalStats.fileStats.forEach(stat => {
+            const rate = ((stat.availableChannels / stat.totalChannels) * 100).toFixed(2);
+            console.log(`   📄 ${stat.fileName}: ${stat.availableChannels}/${stat.totalChannels} (${rate}%)`);
+        });
+    }
+    
+    // 有效性分布统计
+    const distribution = globalStats.fileStats.reduce((acc, stat) => {
+        const rate = Math.floor((stat.availableChannels / stat.totalChannels) * 100 / 10) * 10;
+        const key = `${rate}-${rate + 9}%`;
+        acc[key] = (acc[key] || 0) + 1;
+        return acc;
+    }, {});
+    
+    console.log('\n📊 有效性分布:');
+    Object.entries(distribution).sort((a, b) => {
+        const aRange = parseInt(a[0].split('-')[0]);
+        const bRange = parseInt(b[0].split('-')[0]);
+        return aRange - bRange;
+    }).forEach(([range, count]) => {
+        console.log(`   ${range}: ${count} 个文件`);
+    });
+    
+    console.log('================================\n');
 }
 
 /**
@@ -174,6 +247,7 @@ const main = async () => {
     console.log('🎯 开始处理 M3U 文件...');
     
     const files = await getAllM3uFiles();
+    globalStats.totalFiles = files.length;
     console.log(`📁 找到 ${files.length} 个 M3U 文件`);
     
     // 使用队列控制文件处理并发
@@ -184,6 +258,10 @@ const main = async () => {
     
     promiseQueue.done(() => {
         console.timeEnd('=== 生成任务总耗时 ===');
+        
+        // 生成详细统计报告
+        generateStatsReport();
+        
         console.log('🎉 所有文件处理完成！');
         process.exit(0);
     });

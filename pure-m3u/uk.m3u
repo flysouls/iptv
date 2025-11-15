@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="MTVHitsEurope.uk@SD",MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="VoxAfrica.uk@SD",VoxAfrica
-http://69.64.57.208/voxafrica/playlist.m3u8

@@ -6,7 +6,7 @@ import progress from 'progress';
 import promiseQueue from './queue.js';
 
 const allM3uPath = './m3u';
-const CONCURRENT_URL_CHECKS = 50; // 并发 URL 检测数量
+const CONCURRENT_URL_CHECKS = 30; // 并发 URL 检测数量
 const URL_CHECK_TIMEOUT = 3000; // URL 检测超时时间（毫秒）
 
 /**

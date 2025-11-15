@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="TeleAntillas.do@SD",Tele Antillas (480p)
-http://181.189.244.252:8000/play/a00x/index.m3u8
-#EXTINF:-1 tvg-id="Telefuturo.do@SD",Telefuturo (1080p)
-http://190.110.36.254/TELEFUTURO/index.m3u8
-#EXTINF:-1 tvg-id="Telesistema11.do@SD",Telesistema 11
-http://181.189.244.252:8000/play/a00w/index.m3u8

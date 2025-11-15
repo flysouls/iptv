@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Jednotka.sk@SD",Jednotka
+http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8

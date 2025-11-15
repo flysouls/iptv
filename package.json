@@ -9,13 +9,15 @@
     "merge": "node merge.js",
     "fetch": "node fetch.js",
     "clear": "node clear.js",
-    "start": "npm run clear && npm run fetch && npm run build && npm run merge",
+    "push": "node push.js",
+    "start": "npm run clear && npm run fetch && npm run build && npm run merge && npm run push",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
+    "dayjs": "^1.11.19",
     "node-fetch": "^3.3.2",
     "progress": "^2.0.3"
   },

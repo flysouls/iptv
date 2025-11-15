@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD",Rotana Tarab Jordan City View (720p) [Not 24/7]
+http://45.63.116.205/hls3/stream1.m3u8

@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NietaTV.ml@SD",Nieta TV
+http://69.64.57.208/nieta/playlist.m3u8
+#EXTINF:-1 tvg-id="TM1TV.ml@SD",TM1 (360p) [Not 24/7]
+http://69.64.57.208/tm1/playlist.m3u8

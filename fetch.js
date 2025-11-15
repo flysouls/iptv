@@ -4,32 +4,41 @@ import { download, unzip } from './utils.js';
 
 const rootDir = process.cwd();
 const cachedir = path.resolve(rootDir, '.cache');
-const ipResourceRrl = "https://github.com/iptv-org/iptv/archive/refs/heads/master.zip";
+
+const resources = [
+  {
+    url: "https://github.com/iptv-org/iptv/archive/refs/heads/master.zip",
+    name: 'iptv-org',
+    m3uPath: 'iptv-org/iptv-master/streams/',
+  }
+]
 
 const createIfNotExists = async (path) => {
-  const pathstat = await fs.stat(path);
-  if (!pathstat.isDirectory()) {
+  try {
+    const pathstat = await fs.stat(path);
+    if (!pathstat.isDirectory()) {
+      await fs.mkdir(path);
+    }
+  } catch (err) {
     await fs.mkdir(path);
   }
 };
 
-export const fetchResource = async () => {
-  console.log('--- fetch resource start ---');
+export const fetchResource = async (resource) => {
+  console.log(`--- fetch resource ${resource.name} start ---`);
 
-  await createIfNotExists(cachedir);
-
-  const pathname = path.resolve(cachedir, 'iptv-org.zip');
-  const dirname = path.resolve(cachedir, 'iptv-org');
+  const pathname = path.resolve(cachedir, `${resource.name}.zip`);
+  const dirname = path.resolve(cachedir, resource.name);
 
   console.log('--- start download ---');
-  await download(ipResourceRrl, pathname);
-  console.log('--- download resource successful ---');
+  await download(resource.url, pathname);
+  console.log(`--- download resource ${resource.name} successful ---`);
 
   await unzip(pathname, dirname);
   console.log('--- unzip successful ---');
 
   await fs.cp(
-    path.resolve(cachedir, 'iptv-org/iptv-master/streams/'),
+    path.resolve(cachedir, resource.m3uPath),
     path.resolve(rootDir, 'm3u/'),
     {
       force: true,
@@ -39,7 +48,15 @@ export const fetchResource = async () => {
   )
   console.log('--- copy successful ---');
 
-  console.log('--- fetch resource successful ---');
+  console.log(`--- fetch resource ${resource.name} successful ---`);
 }
 
-fetchResource();
+const main = async () => {
+  await createIfNotExists(cachedir);
+
+  for (let resource of resources) {
+    await fetchResource(resource);
+  }
+}
+
+main();

@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD",Atambua TV (720p)
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="BatamTV.id@SD",Batam TV (480p) [Not 24/7]
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="FajarTV.id@SD",Fajar TV (720p) [Not 24/7]
@@ -13,14 +15,14 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JawaPosTV.id@Semarang",Jawa Pos TV Semarang (720p)
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD",Jogja Istimewa TV (720p)
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@SD",JTV (480p)
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="JTV.id@Kediri",JTV Kediri
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD",Kawanua TV (720p)
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="PadangTV.id@SD",Padang TV (720p) [Not 24/7]
-http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="PONTV.id@SD",PONTV (720p)
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RiauTV.id@SD",Riau TV (1080p) [Not 24/7]
@@ -33,5 +35,5 @@ http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TimorTV.id@HD",Timor TV (1080p)
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="STV.id@SD",STV (720p) [Not 24/7]
-http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7]
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8

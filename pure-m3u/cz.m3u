@@ -3,7 +3,5 @@
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz@SD",ČT:D/ČT art (1080p)
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="KinoBarrandov.cz@SD",Kino Barrandov (720p)
-http://83.167.253.107/hdmi1_ext
 #EXTINF:-1 tvg-id="MinimaxCEE.cz@SD",Minimax (576p) (576p)
 http://88.212.15.19/live/test_minimax/playlist.m3u8

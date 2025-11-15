@@ -3,14 +3,14 @@
 http://69.64.57.208/telecongo/playlist.m3u8 
 #EXTINF:-1 tvg-id="RTI2.ci@SD",RTI 2 (1080p) [Not 24/7] 
 http://69.64.57.208:8080/rti2/playlist.m3u8 
-#EXTINF:-1 tvg-id="RTILa3.ci@SD",RTI La 3 (1080p) [Not 24/7] 
-http://69.64.57.208/la3/index.m3u8 
 #EXTINF:-1 tvg-id="TVAlBayane.ci@SD",TV Al Bayane (360p) 
 http://69.64.57.208/albayanetv/index.m3u8 
-#EXTINF:-1 tvg-id="Canal2International.cm@SD",Canal 2 International 
-http://69.64.57.208/canal2international/playlist.m3u8 
 #EXTINF:-1 tvg-id="EquinoxeTV.cm@SD",Equinoxe TV 
 http://69.64.57.208/equinoxtv/playlist.m3u8 
+#EXTINF:-1 tvg-id="XinjiangTV3.cn@SD",Xinjiang TV 3 
+http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1 
+#EXTINF:-1 tvg-id="XinjiangTV8.cn@SD",Xinjiang TV 8 
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1 
 #EXTINF:-1 tvg-id="",万州三峡移民 (576p) [Not 24/7] 
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8 
 #EXTINF:-1 tvg-id="",万州影视 (576p) [Not 24/7] 
@@ -35,14 +35,16 @@ http://183.64.181.25:40023/rongchang01.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8 
 #EXTINF:-1 tvg-id="CTDecko.cz@SD",ČT:D/ČT art (1080p) 
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8 
-#EXTINF:-1 tvg-id="KinoBarrandov.cz@SD",Kino Barrandov (720p) 
-http://83.167.253.107/hdmi1_ext 
 #EXTINF:-1 tvg-id="MinimaxCEE.cz@SD",Minimax (576p) (576p) 
 http://88.212.15.19/live/test_minimax/playlist.m3u8 
+#EXTINF:-1 tvg-id="Nickelodeon.ee@SD",Nickelodeon (576p) 
+http://195.64.140.147:10121/121 
+#EXTINF:-1 tvg-id="France2.fr@SD",France 2 (1080p) 
+http://69.64.57.208/france2/mono.m3u8 
 #EXTINF:-1 tvg-id="France5.fr@SD",France 5 (1080p) 
 http://69.64.57.208/france5/mono.m3u8 
-#EXTINF:-1 tvg-id="RTG1.gn@SD",RTG 1 
-http://69.64.57.208/rtg/playlist.m3u8 
+#EXTINF:-1 tvg-id="AtambuaTV.id@HD",Atambua TV (720p) 
+http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="BatamTV.id@SD",Batam TV (480p) [Not 24/7] 
 http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="FajarTV.id@SD",Fajar TV (720p) [Not 24/7] 
@@ -57,14 +59,14 @@ http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/JAWAPOSTVMADIUN/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="JawaPosTV.id@Semarang",Jawa Pos TV Semarang (720p) 
 http://122.248.43.242:1935/JAWAPOSTVSEMARANG/_definst_/myStream/playlist.m3u8 
+#EXTINF:-1 tvg-id="JogjaIstimewaTV.id@SD",Jogja Istimewa TV (720p) 
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8 
 #EXTINF:-1 tvg-id="JTV.id@SD",JTV (480p) 
 http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="JTV.id@Kediri",JTV Kediri 
 http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="KawanuaTV.id@SD",Kawanua TV (720p) 
 http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8 
-#EXTINF:-1 tvg-id="PadangTV.id@SD",Padang TV (720p) [Not 24/7] 
-http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="PONTV.id@SD",PONTV (720p) 
 http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="RiauTV.id@SD",Riau TV (1080p) [Not 24/7] 
@@ -77,14 +79,18 @@ http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8
 http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8 
 #EXTINF:-1 tvg-id="TimorTV.id@HD",Timor TV (1080p) 
 http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8 
-#EXTINF:-1 tvg-id="STV.id@SD",STV (720p) [Not 24/7] 
-http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8 
-#EXTINF:-1 tvg-id="Vision.in@SD",Vision (1080p) 
-http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8 
+#EXTINF:-1 tvg-id="TVRParlemen.id@SD",TVR Parlemen (720p) [Not 24/7] 
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8 
+#EXTINF:-1 tvg-id="AlForatTV.iq@SD",Alforat TV (1080p) 
+http://95.216.180.111:1935/live/10/playlist.m3u8 
+#EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it@SD",Euro Indie Music Chart TV (360p) 
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8 
 #EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD",Rotana Radio Jordan Studio (1080p) [Not 24/7] 
 http://45.63.116.205/hls/stream1.m3u8 
 #EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD",Rotana Tarab Jordan City View (720p) [Not 24/7] 
 http://45.63.116.205/hls3/stream1.m3u8 
+#EXTINF:-1 tvg-id="TV3.kh@SD",TV 3 
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8 
 #EXTINF:-1 tvg-id="KCTV.kr@SD",KCTV 광주 CH05 (720p) [Not 24/7] 
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8 
 #EXTINF:-1 tvg-id="HLAODTV.kr@SD",MBC Chungbuk (MBC 충북) (720p) [Not 24/7] 
@@ -95,56 +101,22 @@ http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8 
 #EXTINF:-1 tvg-id="HLDQDTV.kr@SD",SBS JTV (406p) [Not 24/7] 
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8 
+#EXTINF:-1 tvg-id="CheriflaTV.ml@SD",Cherifla TV (360p) 
+http://69.64.57.208/cherifla/playlist.m3u8 
 #EXTINF:-1 tvg-id="NietaTV.ml@SD",Nieta TV 
 http://69.64.57.208/nieta/playlist.m3u8 
 #EXTINF:-1 tvg-id="TM1TV.ml@SD",TM1 (360p) [Not 24/7] 
 http://69.64.57.208/tm1/playlist.m3u8 
-#EXTINF:-1 tvg-id="",Erga Lura TV [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/29 
-#EXTINF:-1 tvg-id="",Jazz Club (Radio) [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/25 
-#EXTINF:-1 tvg-id="NetTV.mt",NET [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/22 
-#EXTINF:-1 tvg-id="One.mt",ONE [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/21 
-#EXTINF:-1 tvg-id="PadrePioTV.it",Padre Pio TV [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/8 
-#EXTINF:-1 tvg-id="ParliamentofMalta.mt",Parliament TV [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/23 
-#EXTINF:-1 tvg-id="",Puttinu [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/5 
-#EXTINF:-1 tvg-id="",Smash 7News [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/16 
-#EXTINF:-1 tvg-id="",Smash Arabija [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/18 
-#EXTINF:-1 tvg-id="",Smash Country [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/11 
-#EXTINF:-1 tvg-id="",Smash Explore [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/17 
-#EXTINF:-1 tvg-id="",Smash Food [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/9 
-#EXTINF:-1 tvg-id="",Smash House of Rock [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/12 
-#EXTINF:-1 tvg-id="",Smash Radio 104.6FM [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/3 
-#EXTINF:-1 tvg-id="",Smash Talk [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/15 
-#EXTINF:-1 tvg-id="",Smash Teleshopping [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/2 
-#EXTINF:-1 tvg-id="SmashTV.mt",Smash TV [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/1 
-#EXTINF:-1 tvg-id="TVM.mt",TVM [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/19 
-#EXTINF:-1 tvg-id="TVMnewsPlus.mt",TVM News+ [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/20 
+#EXTINF:-1 tvg-id="FortuneTV.mm@SD",FORTUNE TV (720p) 
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8 
+#EXTINF:-1 tvg-id="",Jazz Club (Radio) [Geo-blocked] 
+http://80.79.6.221:25461/smash/public/25 
 #EXTINF:-1 tvg-id="",NET [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/22 
 #EXTINF:-1 tvg-id="One.mt@SD",ONE [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/21 
 #EXTINF:-1 tvg-id="PadrePioTV.it@SD",Padre Pio TV [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/8 
-#EXTINF:-1 tvg-id="ParliamentofMalta.mt@SD",Parliament TV [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/23 
 #EXTINF:-1 tvg-id="",Puttinu [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/5 
 #EXTINF:-1 tvg-id="",Rock Classics (Radio) [Geo-blocked] 
@@ -157,18 +129,6 @@ http://80.79.6.221:25461/smash/public/18
 http://80.79.6.221:25461/smash/public/11 
 #EXTINF:-1 tvg-id="",Smash Explore [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/17 
-#EXTINF:-1 tvg-id="",Smash Food [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/9 
-#EXTINF:-1 tvg-id="",Smash House of Rock [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/12 
-#EXTINF:-1 tvg-id="",Smash Music [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/10 
-#EXTINF:-1 tvg-id="",Smash Radio 104.6FM [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/3 
-#EXTINF:-1 tvg-id="",Smash Talk [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/15 
-#EXTINF:-1 tvg-id="",Smash Teleshopping [Geo-blocked] 
-http://80.79.6.221:25461/smash/public/2 
 #EXTINF:-1 tvg-id="SmashTV.mt@SD",Smash TV [Geo-blocked] 
 http://80.79.6.221:25461/smash/public/1 
 #EXTINF:-1 tvg-id="TVM.mt@SD",TVM [Geo-blocked] 
@@ -177,18 +137,20 @@ http://80.79.6.221:25461/smash/public/19
 http://80.79.6.221:25461/smash/public/20 
 #EXTINF:-1 tvg-id="TeleSahel.ne@SD",Télé Sahel (576p) 
 http://69.64.57.208/telesahel/playlist.m3u8 
-#EXTINF:-1 tvg-id="",CooTel Nicaragua (1080p) 
-http://138.117.4.70:8075/channel9/playlist.m3u8 
-#EXTINF:-1 tvg-id="aurLifeHD.pk@SD",aurLife HD (614p) 
-http://124.109.47.101/hls/stream1.m3u8 
+#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (1080p) 
+http://116.90.120.149:8000/play/a01r/index.m3u8 
 #EXTINF:-1 tvg-id="GeoSuper.pk@SD",Geo Super (1080p) 
 http://116.90.120.149:8000/play/a021/index.m3u8 
-#EXTINF:-1 tvg-id="TVTorun.pl@SD",TV Toruń (1080p) [Not 24/7] 
-http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8 
-#EXTINF:-1 tvg-id="BelleAmie.rs@SD",TV Belle Amie (540p) 
-http://92.60.238.10:1935/live/belleamie/playlist.m3u8 
+#EXTINF:-1 tvg-id="Minimax.pk@SD",Minimax (576p) [Not 24/7] 
+http://116.90.120.149:8000/play/a01c/index.m3u8 
+#EXTINF:-1 tvg-id="SamaaTV.pk@SD",Samaa TV (576p) [Not 24/7] 
+http://116.90.120.149:8000/play/a01g/index.m3u8 
+#EXTINF:-1 tvg-id="AlAqsaTV.ps@SD",Al Aqsa Channel (416p) [Not 24/7] 
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8 
 #EXTINF:-1 tvg-id="RTGTV.ru@SD",RTG TV 
 http://194.143.148.28:8080/RTG_HD/index.m3u8 
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD",Russkiy Detektiv 
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8 
 #EXTINF:-1 tvg-id="STSLove.ru@SD",STS Love 
 http://194.143.148.28:8080/CTC_LOVE/index.m3u8 
 #EXTINF:-1 tvg-id="Kineko.ru@SD",Кинеко 
@@ -209,24 +171,16 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Europa_Plus_HD/index.m3u8 
 #EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime 
 http://31.148.48.15/Eda_Premium_HD/index.m3u8 
-#EXTINF:-1 tvg-id="HDL.ru@SD",HDL 
-http://31.148.48.15/HD_Life/index.m3u8 
-#EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids 
-http://31.148.48.15/STS_Kids_HD/index.m3u8 
-#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Авто Плюс 
-http://31.148.48.15/Avto_Plus/index.m3u8 
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Время 
 http://31.148.48.15/Vremya/index.m3u8 
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD",Дом Кино Премиум HD 
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8 
 #EXTINF:-1 tvg-id="Evrokino.ru@SD",Еврокино 
 http://31.148.48.15/Evrokino/index.m3u8 
-#EXTINF:-1 tvg-id="Zhivi.ru@SD",ЖИВИ! 
-http://31.148.48.15/Zhivi/index.m3u8 
-#EXTINF:-1 tvg-id="ZooTV.ru@SD",Зоо ТВ 
-http://31.148.48.15/Zoo_TV/index.m3u8 
-#EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+ 
-http://31.148.48.15/Illusion_plus/index.m3u8 
+#EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета 
+http://31.148.48.15/Zhivaya_Planeta/index.m3u8 
+#EXTINF:-1 tvg-id="India.ru@SD",Индия 
+http://31.148.48.15/Zee_TV_Russia/index.m3u8 
 #EXTINF:-1 tvg-id="Istoriya.ru@SD",История 
 http://31.148.48.15/Istoriya/index.m3u8 
 #EXTINF:-1 tvg-id="Carousel.ru@HD",Карусель 
@@ -239,12 +193,12 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kuhnya_TV/index.m3u8 
 #EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна 
 http://31.148.48.15/Match_Strana/index.m3u8 
-#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD",Музыка Первого 
-http://31.148.48.15/Muzika_Pervogo/index.m3u8 
-#EXTINF:-1 tvg-id="o2tv.ru@SD",о2тв 
-http://31.148.48.15/O2_HD/index.m3u8 
-#EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали! 
-http://31.148.48.15/Poehali/index.m3u8 
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер 
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8 
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Русский роман 
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8 
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD",Рыжий 
+http://31.148.48.15/Rizhiy/index.m3u8 
 #EXTINF:-1 tvg-id="STSLove.ru@SD",СТС Love 
 http://31.148.48.15/STS_Love/index.m3u8 
 #EXTINF:-1 tvg-id="Teatr.ru@SD",Театр 
@@ -261,30 +215,22 @@ http://31.148.48.15/Feniks_plus_kino/index.m3u8
 http://31.148.48.15/Futbol_HD/index.m3u8 
 #EXTINF:-1 tvg-id="Che.ru@SD",Че! 
 http://31.148.48.15/Che/index.m3u8 
-#EXTINF:-1 tvg-id="TVSLO1.si@HD",TV SLO 1 HD (1080p) [Not 24/7] 
-http://23.88.66.93/SLO1/index.m3u8 
 #EXTINF:-1 tvg-id="TVSLO2.si@HD",TV SLO 2 HD (1080p) [Not 24/7] 
 http://23.88.66.93/SLO2/index.m3u8 
 #EXTINF:-1 tvg-id="Jednotka.sk@SD",Jednotka 
 http://88.212.15.19/live/test_jednotka_25p/playlist.m3u8 
-#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p) 
-http://69.64.57.208/rts1/playlist.m3u8 
 #EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p) 
 http://69.64.57.208/rts2/playlist.m3u8 
 #EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p) 
 http://69.64.57.208/tfm/playlist.m3u8 
-#EXTINF:-1 tvg-id="TVT.tg@SD",TVT (720p) [Not 24/7] 
-http://69.64.57.208/tvt/playlist.m3u8 
+#EXTINF:-1 tvg-id="WalfTV.sn@SD",Walf TV (360p) 
+http://69.64.57.208/walftv/playlist.m3u8 
 #EXTINF:-1 tvg-id="SBTTV.th@SD",SBT TV 
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8 
-#EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV 
-http://116.202.238.88/FOXTV_TR/index.m3u8 
-#EXTINF:-1 tvg-id="TVBSAsia.tw@SD",TVBS Asia (1080p) 
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8 
 #EXTINF:-1 tvg-id="KBSVDT1.us@SD",AssyriaSat (720p) [Not 24/7] 
 http://66.242.170.53/hls/live/temp/index.m3u8 
-#EXTINF:-1 tvg-id="MarinTVEducationalChannel.us@SD",Marin TV Educational Channel (San Rafael CA) (1080p) 
-http://96.68.164.217/live-15/live/live.m3u8 
+#EXTINF:-1 tvg-id="MarinTVGovernmentChannel.us@SD",Marin TV Government Channel (San Rafael CA) (1080p) 
+http://96.68.164.217/live-14/live/live.m3u8 
 #EXTINF:-1 tvg-id="DongNaiTV1.vn@SD",Đồng Nai 1 (360p) [Not 24/7] 
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8 
 #EXTINF:-1 tvg-id="DongNaiTV2.vn@SD",Đồng Nai 2 (576p) [Not 24/7] 

@@ -24,6 +24,17 @@ const createIfNotExists = async (path) => {
   }
 };
 
+const clearIfExists = async (path) => {
+  try {
+    const pathstat = await fs.stat(path);
+    if (pathstat.isDirectory()) {
+      await fs.rm(path, { recursive: true });
+    }
+  } catch (err) { 
+    console.log(err);
+  }
+}
+
 export const fetchResource = async (resource) => {
   console.log(`--- fetch resource ${resource.name} start ---`);
 
@@ -52,6 +63,11 @@ export const fetchResource = async (resource) => {
 }
 
 const main = async () => {
+  await clearIfExists(path.resolve(rootDir, 'm3u/'));
+  await createIfNotExists(path.resolve(rootDir, 'm3u/'));
+  await clearIfExists(path.resolve(rootDir, 'pure-m3u/'));
+  await createIfNotExists(path.resolve(rootDir, 'pure-m3u/'));
+  await clearIfExists(cachedir);
   await createIfNotExists(cachedir);
 
   for (let resource of resources) {

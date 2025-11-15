@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TV3.kh@SD",TV 3
+http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8

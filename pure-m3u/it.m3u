@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Radio51TV.it@SD",Radio 51 TV (480p) [Geo-blocked]
-http://178.32.140.155/canale51/canale51/playlist.m3u8
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-id="Telemolise.it@SD",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8

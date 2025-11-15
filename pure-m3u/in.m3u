@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="7SMusic.in@SD",7S Music (576p) [Not 24/7]
-http://202.164.50.194:8000/play/a026/index.m3u8
-#EXTINF:-1 tvg-id="Asianet.in@HD",Asianet HD (720p)
-http://217.20.112.199/asianet/index.m3u8
+#EXTINF:-1 tvg-id="SunBangla.in@SD",Sun Bangla (576p)
+http://103.182.170.32:8888/play/a01v
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD",Disney Channel HD (1080p)
 http://66.102.120.18:8000/play/a013/index.m3u8

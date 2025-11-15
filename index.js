@@ -6,7 +6,7 @@ import progress from 'progress';
 import promiseQueue from './queue.js';
 
 const allM3uPath = './m3u';
-const CONCURRENT_URL_CHECKS = 10; // 并发 URL 检测数量
+const CONCURRENT_URL_CHECKS = 50; // 并发 URL 检测数量
 const URL_CHECK_TIMEOUT = 3000; // URL 检测超时时间（毫秒）
 
 /**
@@ -27,17 +27,39 @@ const checkUrlAvailable = async (url) => {
 }
 
 /**
- * 批量并行检查 URL 可用性
+ * 批量并行检查 URL 可用性（优化版）
+ * 支持大数量 URL 的分批处理，避免内存溢出
  */
-const batchCheckUrls = async (urls) => {
-    const results = await Promise.allSettled(
-        urls.map(url => checkUrlAvailable(url))
-    );
+const batchCheckUrls = async (urls, batchSize = CONCURRENT_URL_CHECKS) => {
+    const results = [];
     
-    return results.map((result, index) => ({
-        url: urls[index],
-        available: result.status === 'fulfilled' && result.value === true
-    }));
+    // 分批处理，避免一次性创建过多 Promise
+    for (let i = 0; i < urls.length; i += batchSize) {
+        const batchUrls = urls.slice(i, i + batchSize);
+        
+        // 处理当前批次
+        const batchResults = await Promise.allSettled(
+            batchUrls.map(url => checkUrlAvailable(url))
+        );
+        
+        // 收集当前批次结果
+        batchResults.forEach((result, batchIndex) => {
+            const urlIndex = i + batchIndex;
+            if (urlIndex < urls.length) {
+                results.push({
+                    url: urls[urlIndex],
+                    available: result.status === 'fulfilled' && result.value === true
+                });
+            }
+        });
+        
+        // 添加小延迟，避免网络拥塞
+        if (i + batchSize < urls.length) {
+            await new Promise(resolve => setTimeout(resolve, 50));
+        }
+    }
+    
+    return results;
 }
 
 /**
@@ -163,6 +185,7 @@ const main = async () => {
     promiseQueue.done(() => {
         console.timeEnd('=== 生成任务总耗时 ===');
         console.log('🎉 所有文件处理完成！');
+        process.exit(0);
     });
 }
 

@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="312Kino.kg@SD",312 Кино (406p)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 tvg-id="312TV.kg@SD",312 ТВ (406p)
-http://176.126.166.43:1935/live/312musik/playlist.m3u8

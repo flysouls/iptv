@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="XinjiangTV3.cn@SD",Xinjiang TV 3 
 http://120.70.60.179:9901/tsfile/live/1006_1.m3u8?authid=0&key=txiptv&playlive=1 
+#EXTINF:-1 tvg-id="XinjiangTV8.cn@SD",Xinjiang TV 8 
+http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1 
 #EXTINF:-1 tvg-id="",万州三峡移民 (576p) [Not 24/7] 
 http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8 
 #EXTINF:-1 tvg-id="",万州影视 (576p) [Not 24/7] 
@@ -9,10 +11,36 @@ http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
 http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8 
 #EXTINF:-1 tvg-id="",万州综合 (576p) [Not 24/7] 
 http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8 
+#EXTINF:-1 tvg-id="",东南卫视 (Southeast Television fka Fujian Television) (2160p) 
+http://118.81.195.79:9003/hls/24/index.m3u8 
+#EXTINF:-1 tvg-id="DragonTV.cn@SD",东方卫视 (2160p) 
+http://118.81.195.79:9003/hls/23/index.m3u8 
+#EXTINF:-1 tvg-id="JilinSatelliteTV.cn@SD",吉林卫视 (2160p) 
+http://118.81.195.79:9003/hls/34/index.m3u8 
+#EXTINF:-1 tvg-id="AnhuiSatelliteTV.cn@SD",安徽卫视 (2160p) 
+http://118.81.195.79:9003/hls/21/index.m3u8 
+#EXTINF:-1 tvg-id="ShanxiTV.cn@SD",山西卫视 (2160p) 
+http://118.81.195.79:9003/hls/19/index.m3u8 
+#EXTINF:-1 tvg-id="GuangdongSatelliteTV.cn@SD",广东卫视 (2160p) 
+http://118.81.195.79:9003/hls/26/index.m3u8 
+#EXTINF:-1 tvg-id="GuangxiTV.cn@SD",广西卫视 (576p) 
+http://118.81.195.79:9003/hls/27/index.m3u8 
 #EXTINF:-1 tvg-id="",江津新闻综合 (480p) 
 http://222.179.155.21:1935/ch1.m3u8 
 #EXTINF:-1 tvg-id="",江津经济生活 (480p) 
 http://222.179.155.21:1935/ch0.m3u8 
+#EXTINF:-1 tvg-id="HebeiTV.cn@SD",河北卫视 (2160p) 
+http://118.81.195.79:9003/hls/29/index.m3u8 
+#EXTINF:-1 tvg-id="HenanTVSatellite.cn@SD",河南卫视 (2160p) 
+http://118.81.195.79:9003/hls/30/index.m3u8 
+#EXTINF:-1 tvg-id="HainanSatelliteTV.cn@SD",海南卫视 (576p) 
+http://118.81.195.79:9003/hls/28/index.m3u8 
+#EXTINF:-1 tvg-id="HubeiSatelliteTV.cn@SD",湖北卫视 (1080p) 
+http://118.81.195.79:9003/hls/32/index.m3u8 
+#EXTINF:-1 tvg-id="GansuTV.cn@SD",甘肃卫视 (576p) 
+http://118.81.195.79:9003/hls/25/index.m3u8 
+#EXTINF:-1 tvg-id="",萬州三峽移民 (576p) 
+http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8 
 #EXTINF:-1 tvg-id="",萬州影視文藝 (576p) [Not 24/7] 
 http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8 
 #EXTINF:-1 tvg-id="",萬州科教頻道 (576p) 
@@ -21,3 +49,7 @@ http://123.146.162.24:8017/Cz7WPb8/800/live.m3u8
 http://123.146.162.24:8017/iTXwrGs/800/live.m3u8 
 #EXTINF:-1 tvg-id="",荣昌综合 (404p) [Not 24/7] 
 http://183.64.181.25:40023/rongchang01.m3u8 
+#EXTINF:-1 tvg-id="ChongqingTVInternational.cn@SD",重庆卫视 (1080p) 
+http://118.81.195.79:9003/hls/22/index.m3u8 
+#EXTINF:-1 tvg-id="HeilongjiangTV.cn@SD",黑龙江卫视 (2160p) 
+http://118.81.195.79:9003/hls/31/index.m3u8 

@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="GolPeru.pe@SD",Gol Peru (1080p)
-http://38.183.182.166:8000/play/a120/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD",L1 Max (1080p)
-http://38.183.182.166:8000/play/a12t/index.m3u8
 #EXTINF:-1 tvg-id="PBO.pe@SD",PBO (1080p)
 http://38.183.182.166:8000/play/a13k/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV.pe@SD",RPP TV (480p)

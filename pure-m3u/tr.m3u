@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATV.tr@SD",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
-#EXTINF:-1 tvg-id="ATV.tr@SD",ATV
-http://116.202.238.88/ATV_TR/index.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr@SD",Med Muzik (1080p)
 http://54.36.110.140/live3/live3.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD",NOW TV
-http://116.202.238.88/FOXTV_TR/index.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr@SD",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8

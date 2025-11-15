@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KCTV.kr@SD",KCTV 광주 CH05 (720p) [Not 24/7]
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAODTV.kr@SD",MBC Chungbuk (MBC 충북) (720p) [Not 24/7]
 http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr@SD",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]

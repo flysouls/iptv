@@ -1,14 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ABC.us@East",ABC
-http://41.205.93.154/ABC/index.m3u8
 #EXTINF:-1 tvg-id="DirecTVSports.us@Panregional",DirecTV Sports (1080p)
 http://38.183.182.166:8000/play/a125/index.m3u8
+#EXTINF:-1 tvg-id="FunRoads.us@SD",Fun Roads (404p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-id="Galavision.us@East",Galavision
+http://104.238.205.28:8989/278705_.m3u8
 #EXTINF:-1 tvg-id="ImpactNetwork.us@SD",Impact Network
 http://51.75.94.167/impact/index.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us@SD",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
 #EXTINF:-1 tvg-id="MSNBC.us@SD",MSNBC (720p)
 http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South",National Geographic Latin America South (1080p)
+http://38.183.182.166:8000/play/a0vd/index.m3u8
 #EXTINF:-1 tvg-id="NBCUniverso.us@West",NBC Universo West (720p)
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
@@ -17,8 +21,14 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="WBZDT1.us@SD",WBZ-DT1 (720p)
 http://143.244.60.30/CBSEAST/index.m3u8
+#EXTINF:-1 tvg-id="WHSVDT4.us@SD",WHSV-DT4
+http://104.255.88.155/metv/index.m3u8
+#EXTINF:-1 tvg-id="WPXXDT1.us@SD",WPXX-DT1
+http://104.255.88.155/ion/index.m3u8
 #EXTINF:-1 tvg-id="WTTWDT1.us@SD",WTTW-DT1
 http://68.251.105.81:5004/auto/v11.1
+#EXTINF:-1 tvg-id="WTTWDT2.us@SD",WTTW-DT2
+http://68.251.105.81:5004/auto/v11.2
 #EXTINF:-1 tvg-id="WTTWDT3.us@SD",WTTW-DT3
 http://68.251.105.81:5004/auto/v11.3
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional",Nickelodeon Latin America (720p)

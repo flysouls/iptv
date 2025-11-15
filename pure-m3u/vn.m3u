@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CaoBangTV.vn@SD",Cao Bang TV (480p)
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV1.vn@SD",Đồng Nai 1 (360p) [Not 24/7]
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn@SD",Đồng Nai 2 (576p) [Not 24/7]
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KhanhHoaTV.vn@SD",Khanh Hoa TV (720p)
-http://210.245.20.94/hls/ktv1.m3u8

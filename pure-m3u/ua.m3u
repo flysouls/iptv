@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100NEWS.ua@SD",100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="RenomeTV.ua@SD",Renome (576p)
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="BaltaTV.ua@SD",Балта ТВ (768p)
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD",Общественное Независимое Телевидение (576p)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8

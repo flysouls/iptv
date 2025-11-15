@@ -9,7 +9,15 @@ const resources = [
   {
     url: "https://github.com/iptv-org/iptv/archive/refs/heads/master.zip",
     name: 'iptv-org',
+    needUnzip: true,
+    fileType: 'zip',
     m3uPath: 'iptv-org/iptv-master/streams/',
+  },
+  {
+    url: "https://m3u.ibert.me/all.m3u",
+    name: 'ibert',
+    fileType: 'm3u',
+    m3uPath: 'ibert.m3u',
   }
 ]
 
@@ -38,19 +46,21 @@ const clearIfExists = async (path) => {
 export const fetchResource = async (resource) => {
   console.log(`--- fetch resource ${resource.name} start ---`);
 
-  const pathname = path.resolve(cachedir, `${resource.name}.zip`);
+  const pathname = path.resolve(cachedir, `${resource.name}.${resource.fileType}`);
   const dirname = path.resolve(cachedir, resource.name);
 
   console.log('--- start download ---');
   await download(resource.url, pathname);
   console.log(`--- download resource ${resource.name} successful ---`);
 
-  await unzip(pathname, dirname);
-  console.log('--- unzip successful ---');
+  if (resource.needUnzip) {
+    await unzip(pathname, dirname);
+    console.log('--- unzip successful ---');
+  }
 
   await fs.cp(
     path.resolve(cachedir, resource.m3uPath),
-    path.resolve(rootDir, 'm3u/'),
+    path.resolve(rootDir, `m3u/${resource.fileType === 'm3u' ? resource.m3uPath : ''}`),
     {
       force: true,
       recursive: true,
@@ -70,9 +80,10 @@ const main = async () => {
   await clearIfExists(cachedir);
   await createIfNotExists(cachedir);
 
-  for (let resource of resources) {
-    await fetchResource(resource);
-  }
+  await Promise.all(resources.map(i => fetchResource(i)));
 }
 
-main();
+main().then(() => {
+  console.log('--- fetch all resource successful ---');
+  process.exit(0);
+});

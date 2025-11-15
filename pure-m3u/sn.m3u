@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RTS1.sn@SD",RTS 1 (720p)
+http://69.64.57.208/rts1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTS2.sn@SD",RTS 2 (720p)
 http://69.64.57.208/rts2/playlist.m3u8
 #EXTINF:-1 tvg-id="TFM.sn@SD",TFM (720p)

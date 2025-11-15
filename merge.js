@@ -52,4 +52,7 @@ const main = async () => {
     console.log('=== merge mession complete ===');
 }
 
-main();
+main().then(() => {
+    console.log('=== merge mession complete ===');
+    process.exit(0);
+});

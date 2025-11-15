@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="A2.ru@SD",Amedia 2
+http://31.148.48.15/A2/index.m3u8
+#EXTINF:-1 tvg-id="Ani.ru@SD",Ani
+http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru@SD",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD",BRIDGE Classic
@@ -11,6 +15,12 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1 tvg-id="FoodTime.ru@SD",FoodTime
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1 tvg-id="HDL.ru@SD",HDL
+http://31.148.48.15/HD_Life/index.m3u8
+#EXTINF:-1 tvg-id="STSkids.ru@SD",STS kids
+http://31.148.48.15/STS_Kids_HD/index.m3u8
+#EXTINF:-1 tvg-id="AutoPlus.ru@SD",Авто Плюс
+http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Время
 http://31.148.48.15/Vremya/index.m3u8
 #EXTINF:-1 tvg-id="DomkinoPremium.ru@SD",Дом Кино Премиум HD
@@ -19,6 +29,12 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1 tvg-id="ZhivayaPlaneta.ru@SD",Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
+#EXTINF:-1 tvg-id="Zhivi.ru@SD",ЖИВИ!
+http://31.148.48.15/Zhivi/index.m3u8
+#EXTINF:-1 tvg-id="ZooTV.ru@SD",Зоо ТВ
+http://31.148.48.15/Zoo_TV/index.m3u8
+#EXTINF:-1 tvg-id="IllusionPlus.ru@SD",Иллюзион+
+http://31.148.48.15/Illusion_plus/index.m3u8
 #EXTINF:-1 tvg-id="India.ru@SD",Индия
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1 tvg-id="Istoriya.ru@SD",История
@@ -33,6 +49,12 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1 tvg-id="MatchStrana.ru@HD",Матч! Страна
 http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaPervogo.ru@SD",Музыка Первого
+http://31.148.48.15/Muzika_Pervogo/index.m3u8
+#EXTINF:-1 tvg-id="o2tv.ru@SD",о2тв
+http://31.148.48.15/O2_HD/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru@SD",Поехали!
+http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Русский Бестселлер
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Русский роман

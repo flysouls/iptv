@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="STV.hr@SD",STV (720p)
+http://89.201.163.244:8080/hls/hdmi.m3u8

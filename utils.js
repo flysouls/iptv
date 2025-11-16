@@ -5,7 +5,11 @@ import { promisify } from 'node:util';
 
 export const download = async (url, filename) => {
   const res = await fetch(url);
-  const buffer = await res.buffer();
+  if (!res.ok) {
+    throw new Error(`Failed to download ${url}: ${res.statusText}`);
+  }
+
+  const buffer = await res.arrayBuffer();
   await fs.writeFile(filename, buffer);
 }
 

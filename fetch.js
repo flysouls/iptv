@@ -6,13 +6,13 @@ const rootDir = process.cwd();
 const cachedir = path.resolve(rootDir, '.cache');
 
 const resources = [
-  // {
-  //   url: "https://github.com/iptv-org/iptv/archive/refs/heads/master.zip",
-  //   name: 'iptv-org',
-  //   needUnzip: true,
-  //   fileType: 'zip',
-  //   m3uPath: 'iptv-org/iptv-master/streams/',
-  // },
+  {
+    url: "https://github.com/iptv-org/iptv/archive/refs/heads/master.zip",
+    name: 'iptv-org',
+    needUnzip: true,
+    fileType: 'zip',
+    m3uPath: 'iptv-org/iptv-master/streams/',
+  },
   {
     url: "https://m3u.ibert.me/all.m3u",
     name: 'ibert',
@@ -80,7 +80,7 @@ const main = async () => {
   await clearIfExists(cachedir);
   await createIfNotExists(cachedir);
 
-  await Promise.all(resources.map(i => fetchResource(i)));
+  await Promise.all(resources.map(i => fetchResource(i).catch(console.log)));
 }
 
 main().then(() => {

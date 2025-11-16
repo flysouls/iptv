@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ChileVision.cl@SD",ChileVision (1080p)
+http://38.250.127.17:9800/play/a05h/index.m3u8

@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlcarriaTV.es@SD",Alcarria TV (576p) [Not 24/7]
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="AndaluciaTelevision.es@SD",Andalucía Televisión (1080p)
+http://176.65.146.237:8401/play/a09g/index.m3u8
+#EXTINF:-1 tvg-id="Antena3.es@National",Antena 3 (1080p)
+http://176.65.146.237:8401/play/a0ae/index.m3u8
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD",Antena 3 Internacional (480p)
+http://38.183.182.166:8000/play/a0sx/index.m3u8
+#EXTINF:-1 tvg-id="Atreseries.es@SD",Atreseries (1080p)
+http://176.65.146.237:8401/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="AtreseriesInternacional.es@SD",Atreseries Internacional (1080p)
+http://38.183.182.166:8000/play/a104/index.m3u8
+#EXTINF:-1 tvg-id="BeMad.es@SD",Be Mad (1080p)
+http://176.65.146.237:8401/play/a0aj/index.m3u8
+#EXTINF:-1 tvg-id="BomCine.es@SD",Bom Cine (1080p)
+http://176.65.146.237:8401/play/a09d/index.m3u8
+#EXTINF:-1 tvg-id="CanalSur.es@SD",Canal Sur (1080p)
+http://176.65.146.237:8401/play/a09c/index.m3u8
+#EXTINF:-1 tvg-id="Cuatro.es@SD",Cuatro (1080p)
+http://176.65.146.237:8401/play/a09s/index.m3u8
+#EXTINF:-1 tvg-id="Divinity.es@SD",Divinity (1080p)
+http://176.65.146.237:8401/play/a09q/index.m3u8
+#EXTINF:-1 tvg-id="FactoriadeFiccion.es@SD",FDF (1080p)
+http://176.65.146.237:8401/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@HEVC",La 1 HEVC (1080p)
+http://176.65.146.237:8401/play/a095/index.m3u8
+#EXTINF:-1 tvg-id="La1.es@UHD",La 1 UHD (2160p)
+http://176.65.146.237:8401/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="LaSexta.es@SD",La Sexta (1080p)
+http://176.65.146.237:8401/play/a0af/index.m3u8
+#EXTINF:-1 tvg-id="Mega.es@SD",Mega (1080p)
+http://176.65.146.237:8401/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-id="Neox.es@SD",Neox (1080p)
+http://176.65.146.237:8401/play/a0ag/index.m3u8
+#EXTINF:-1 tvg-id="Nova.es@SD",Nova (1080p)
+http://176.65.146.237:8401/play/a0ah/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.es@SD",Paramount Network Spain (1080p)
+http://176.65.146.237:8401/play/a09i/index.m3u8
+#EXTINF:-1 tvg-id="RadioBocairentTV.es@SD",Ràdio Bocairent TV (1080p) [Not 24/7]
+http://185.81.77.4/BocairentTV/index.m3u8
+#EXTINF:-1 tvg-id="RealMadridTV.es@SD",Real Madrid TV (1080p)
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:-1 tvg-id="Squirrel.es@SD",Squirrel (1080p)
+http://176.65.146.237:8401/play/a09h/index.m3u8
+#EXTINF:-1 tvg-id="Telecinco.es@SD",Telecinco (1080p)
+http://176.65.146.237:8401/play/a09r/index.m3u8
+#EXTINF:-1 tvg-id="TEN.es@SD",TEN (1080p)
+http://176.65.146.237:8401/play/a0al/index.m3u8
+#EXTINF:-1 tvg-id="Trece.es@SD",Trece (1080p)
+http://176.65.146.237:8401/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-id="TuyaLaJandaTelevision.es@SD",Tuya La Janda Televisión (1080p)
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 tvg-id="Veo7.es@SD",Veo7 (1080p)
+http://176.65.146.237:8401/play/a09k/index.m3u8

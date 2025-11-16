@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVSE.ro@SD",Exploris (576p) [Not 24/7]
+http://89.38.8.130:39419
+#EXTINF:-1 tvg-id="IntermediaTV.ro@SD",Intermedia TV (576p) [Not 24/7]
+http://83.103.150.198:8080
+#EXTINF:-1 tvg-id="RapsodiaTV.ro@SD",Rapsodia TV (576p)
+http://92.86.248.141:8080/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBuzau.ro@SD",TV Buzau (576p)
+http://78.96.33.89:8080
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD",TVPlus Suceava (576p)
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro@SD",TVPlus Suceava (576p)
+http://85.186.146.34:8080
+#EXTINF:-1 tvg-id="TVSat.ro@SD",TVSat (576p) [Not 24/7]
+http://89.38.8.130:39443

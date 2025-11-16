@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBSVDT1.us@SD",AssyriaSat (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 tvg-id="MarinTVCommunityChannel.us@SD",Marin TV Community Channel (San Rafael CA) (1080p)
+http://96.68.164.217/live-13/live/live.m3u8
+#EXTINF:-1 tvg-id="MarinTVEducationalChannel.us@SD",Marin TV Educational Channel (San Rafael CA) (1080p)
+http://96.68.164.217/live-15/live/live.m3u8
+#EXTINF:-1 tvg-id="KCWXDT1.us@SD",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8

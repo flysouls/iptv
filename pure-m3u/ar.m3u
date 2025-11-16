@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional",Disney Channel Latin America (1080p)
+http://201.230.121.186:8000/play/a0fb/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@South",Disney Jr. Latin America South (480p)
+http://38.183.182.166:8000/play/a0j9/index.m3u8
+#EXTINF:-1 tvg-id="Radiocanal.ar@SD",Radiocanal San Francisco (1080p)
+http://204.199.3.2/.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.ar@SD",Sony Channel (1080p)
+http://38.183.182.166:8000/play/a0vg/index.m3u8
+#EXTINF:-1 tvg-id="Telefe.ar@SD",Telefe (720p)
+http://104.238.205.28:8989/278773_.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD",Fox Sports (1080p)
+http://181.209.125.237:9000/play/a04e/index.m3u8

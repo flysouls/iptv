@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AlhayatDrama.eg@SD",Alhayat Drama (576)
-http://213.57.91.138:8000/play/a06s
-#EXTINF:-1 tvg-id="CBC.eg@SD",CBC (576p)
-http://213.57.91.138:8000/play/a06o
-#EXTINF:-1 tvg-id="CBCDrama.eg@SD",CBC Drama (576p)
-http://213.57.91.138:8000/play/a06q
-#EXTINF:-1 tvg-id="CBCSofra.eg@SD",CBC Sofra (576p)
-http://213.57.91.138:8000/play/a06p

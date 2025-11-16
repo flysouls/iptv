@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="MoldovaTV.md@SD",Moldova TV (576p) [Not 24/7]
-http://89.38.8.130:39435
-#EXTINF:-1 tvg-id="SorTV.md@SD",Sor TV (720p)
-http://188.237.212.16:8888/live/cameraFeed.m3u8

@@ -47,7 +47,7 @@ const main = async () => {
 
     await generateM3uFile('./pure-m3u', './pure-m3u');
 
-    await generateM3uFile('./pure-m3u', './cn', (val) => val.startsWith('cn'));
+    await generateM3uFile('./pure-m3u', './cn', (val) => val.includes('cn') || val.includes('cctv'));
 
     console.log('=== merge mession complete ===');
 }

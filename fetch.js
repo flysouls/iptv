@@ -1,6 +1,7 @@
 import path from 'node:path';
 import fs from 'node:fs/promises';
 import { download, unzip } from './utils.js';
+import { url } from 'node:inspector';
 
 const rootDir = process.cwd();
 const cachedir = path.resolve(rootDir, '.cache');
@@ -18,6 +19,83 @@ const resources = [
     name: 'ibert',
     fileType: 'm3u',
     m3uPath: 'ibert.m3u',
+  },
+  {
+    url: "https://m3u.ibert.me/fmml_ipv6.m3u",
+    name: 'fmml_ipv6',
+    fileType: 'm3u',
+    m3uPath: 'fmml_ipv6.m3u',
+  },
+  {
+    url: "https://m3u.ibert.me/fmml_itv.m3u",
+    name: 'fmml_itv',
+    fileType: 'm3u',
+    m3uPath: 'fmml_itv.m3u',
+  }, {
+    url: "https://m3u.ibert.me/fmml_index.m3u",
+    name: 'fmml_index',
+    fileType: 'm3u',
+    m3uPath: 'fmml_index.m3u',
+  }, {
+    url: "https://m3u.ibert.me/ycl_iptv.m3u",
+    name: "ycl_iptv",
+    fileType: 'm3u',
+    m3uPath: 'ycl_iptv.m3u',
+  }, {
+    url: "https://m3u.ibert.me/o_cn.m3u",
+    name: "o_cn",
+    fileType: 'm3u',
+    m3uPath: 'o_cn.m3u',
+  }, {
+    url: "https://m3u.ibert.me/o_s_cn.m3u",
+    name: "o_s_cn",
+    fileType: "m3u",
+    m3uPath: 'o_s_cn.m3u',
+  }, {
+    url: "https://m3u.ibert.me/o_s_cn_112114.m3u",
+    name: "o_s_cn_112114",
+    fileType: "m3u",
+    m3uPath: 'o_s_cn_112114.m3u',
+  }, {
+    url: "https://m3u.ibert.me/o_s_cn_cctv.m3u",
+    name: "o_s_cn_cctv",
+    fileType: "m3u",
+    m3uPath: 'o_s_cn_cctv.m3u',
+  }, {
+    url: "https://m3u.ibert.me/o_s_cn_cgtn.m3u",
+    name: "o_s_cn_cgtn",
+    fileType: "m3u",
+    m3uPath: "o_s_cn_cgtn.m3u"
+  },{
+    url: "https://m3u.ibert.me/cn.m3u",
+    name: "cn",
+    fileType: "m3u",
+    m3uPath: "cn.m3u",
+  }, {
+    url: "https://m3u.ibert.me/cn_c.m3u",
+    name: "cn_c",
+    fileType: "m3u",
+    m3uPath: "cn_c.m3u",
+  }, {
+    url: "https://m3u.ibert.me/q_bj_iptv_unicom.m3u",
+    name: "q_bj_iptv_unicom",
+    fileType: "m3u",
+    m3uPath: "q_bj_iptv_unicom.m3u",
+  }, {
+    url: "https://m3u.ibert.me/q_bj_iptv_unicom_m.m3u",
+    name: "q_bj_iptv_unicom_m",
+    fileType: "m3u",
+    m3uPath: "q_bj_iptv_unicom_m.m3u",
+  }, {
+    url: "https://m3u.ibert.me/q_bj_iptv_mobile.m3u",
+    name: "q_bj_iptv_mobile",
+    fileType: "m3u",
+    m3uPath: "q_bj_iptv_mobile.m3u",
+  }, {
+    url: "https://m3u.ibert.me/q_bj_iptv_mobile_m.m3u",
+    name: "q_bj_iptv_mobile_m",
+    fileType: "m3u",
+    m3uPath: "q_bj_iptv_mobile_m.m3u",
   }
 ]
 

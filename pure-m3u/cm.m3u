@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="Canal2International.cm@SD",Canal 2 International
-http://69.64.57.208/canal2international/playlist.m3u8
-#EXTINF:-1 tvg-id="CRTV.cm@SD",CRTV
-http://69.64.57.208/crtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EquinoxeTV.cm@SD",Equinoxe TV
-http://69.64.57.208/equinoxtv/playlist.m3u8

@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="aurLifeHD.pk@SD",aurLife HD (614p)
-http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="GeoSuper.pk@SD",Geo Super (1080p)
-http://116.90.120.149:8000/play/a021/index.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD",Minimax (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a01c/index.m3u8

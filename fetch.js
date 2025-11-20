@@ -95,6 +95,11 @@ const resources = [
     name: "q_bj_iptv_mobile_m",
     fileType: "m3u",
     m3uPath: "q_bj_iptv_mobile_m.m3u",
+  }, {
+    url: "https://gitee.com/eprom123/iptv/raw/master/%E9%99%95%E8%A5%BF%E7%A7%BB%E5%8A%A8iptv.m3u",
+    name: "陕西移动iptv",
+    fileType: "m3u",
+    m3uPath: "陕西移动iptv.m3u",
   }
 ]
 
